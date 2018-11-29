@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Battle_Tank.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AECF87A4-726D-432D-AA15-483CCE102795}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Battle_Tank.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Battle_TankEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A5811AE4-F468-43CC-BA1C-D5B88782853F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Battle_Tank">
+      <UniqueIdentifier>{1D3B504E-9FB9-4267-B4A9-47EC76510497}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Battle_Tank\Battle_Tank.Build.cs">
+      <Filter>Source\Battle_Tank</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Battle_Tank\Battle_Tank.cpp">
+      <Filter>Source\Battle_Tank</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Battle_Tank\Battle_Tank.h">
+      <Filter>Source\Battle_Tank</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Battle_Tank\Battle_TankGameModeBase.cpp">
+      <Filter>Source\Battle_Tank</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Battle_Tank\Battle_TankGameModeBase.h">
+      <Filter>Source\Battle_Tank</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

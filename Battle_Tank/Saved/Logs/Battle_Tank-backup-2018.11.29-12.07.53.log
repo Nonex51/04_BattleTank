@@ -1,0 +1,1564 @@
+﻿Log file open, 11/29/18 12:30:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Battle_Tank
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.256029
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.372s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Jeux/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.11.29-11.30.30:384][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.11.29-11.30.30:384][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.11.29-11.30.30:384][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2018.11.29-11.30.30:384][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.11.29-11.30.30:384][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2018.11.29-11.30.30:384][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2018.11.29-11.30.30:384][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.11.29-11.30.30:384][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.11.29-11.30.30:384][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.11.29-11.30.30:384][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.11.29-11.30.30:384][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.11.29-11.30.30:384][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.11.29-11.30.30:384][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.11.29-11.30.30:384][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.11.29-11.30.30:384][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.11.29-11.30.30:385][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2018.11.29-11.30.30:385][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2018.11.29-11.30.30:387][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:387][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.29-11.30.30:387][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.29-11.30.30:387][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:387][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.29-11.30.30:387][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:387][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.29-11.30.30:388][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.29-11.30.30:389][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.29-11.30.30:389][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.29-11.30.30:389][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.29-11.30.30:389][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.29-11.30.30:389][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.29-11.30.30:389][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.29-11.30.30:389][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:389][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.29-11.30.30:389][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.29-11.30.30:389][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.29-11.30.30:389][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.29-11.30.30:440][  0]LogHAL: Display: Platform has ~ 8 GB [8459313152 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.29-11.30.30:440][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.11.29-11.30.30:440][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.29-11.30.30:441][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.29-11.30.30:441][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2018.11.29-11.30.30:442][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2018.11.29-11.30.30:442][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Scalability.ini]
+[2018.11.29-11.30.30:442][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2018.11.29-11.30.30:442][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2018.11.29-11.30.30:442][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.11.29-11.30.30:442][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.11.29-11.30.30:442][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/BattleTank/Battle_Tank/Saved/Config/Windows/Engine.ini]
+[2018.11.29-11.30.30:442][  0]LogInit: Computer: DESKTOP-LF9461B
+[2018.11.29-11.30.30:442][  0]LogInit: User: Guillaume
+[2018.11.29-11.30.30:442][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.29-11.30.30:442][  0]LogInit: High frequency timer resolution =2.249999 MHz
+[2018.11.29-11.30.30:442][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.29-11.30.30:442][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.29-11.30.30:442][  0]LogMemory: Process Physical Memory: 100.96 MB used, 100.96 MB peak
+[2018.11.29-11.30.30:442][  0]LogMemory: Process Virtual Memory: 90.34 MB used, 90.34 MB peak
+[2018.11.29-11.30.30:442][  0]LogMemory: Physical Memory: 4864.00 MB used,  3203.43 MB free, 8067.43 MB total
+[2018.11.29-11.30.30:442][  0]LogMemory: Virtual Memory: 4633.96 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2018.11.29-11.30.30:561][  0]LogInit: Using OS detected language (fr-FR).
+[2018.11.29-11.30.30:561][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.11.29-11.30.30:561][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.11.29-11.30.30:624][  0]LogStreaming: Display: Took  0.063s to InitEngineTextLocalization.
+[2018.11.29-11.30.30:624][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.29-11.30.30:698][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.29-11.30.30:698][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.29-11.30.35:453][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.29-11.30.35:453][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.29-11.30.35:536][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.11.29-11.30.35:536][  0]LogD3D11RHI:       2010/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.29-11.30.35:547][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.29-11.30.35:547][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.29-11.30.35:550][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.29-11.30.35:550][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.29-11.30.35:550][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.29-11.30.35:594][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.29-11.30.35:594][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.11.29-11.30.35:595][  0]LogWindows: EnumDisplayDevices:
+[2018.11.29-11.30.35:595][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.11.29-11.30.35:595][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.29-11.30.35:595][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.29-11.30.35:596][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.29-11.30.35:596][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.11.29-11.30.35:596][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.29-11.30.35:596][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.29-11.30.35:596][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.11.29-11.30.35:650][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.29-11.30.35:670][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.29-11.30.36:812][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.29-11.30.36:853][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.29-11.30.36:882][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.29-11.30.36:908][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.29-11.30.36:951][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.29-11.30.36:974][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.29-11.30.36:998][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.29-11.30.37:022][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.29-11.30.37:037][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-11.30.37:356][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.29-11.30.37:547][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.29-11.30.37:547][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.29-11.30.37:671][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.29-11.30.37:671][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.29-11.30.37:770][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.29-11.30.37:785][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.29-11.30.37:799][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.29-11.30.37:825][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.29-11.30.37:890][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.29-11.30.37:890][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.29-11.30.37:890][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.29-11.30.38:375][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../../BattleTank/Battle_Tank/Intermediate/Shaders/WorkingDirectory/6240/).
+[2018.11.29-11.30.38:375][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Guillaume/AppData/Local/Temp/UnrealShaderWorkingDir/2E2126AE4BEC092838E63D998C4FF549/'.
+[2018.11.29-11.30.38:387][  0]LogXGEController: Cleaning working directory: C:/Users/Guillaume/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.29-11.30.38:387][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.29-11.30.38:387][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.29-11.30.38:387][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.29-11.30.39:641][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.29-11.30.39:844][  0]LogDerivedDataCache: Loaded boot cache 0.20s 71MB C:/Users/Guillaume/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.29-11.30.39:844][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Guillaume/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.11.29-11.30.39:844][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../BattleTank/Battle_Tank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.29-11.30.39:844][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.29-11.30.39:844][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../BattleTank/Battle_Tank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.29-11.30.39:844][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.29-11.30.40:277][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.29-11.30.40:277][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.29-11.30.40:277][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.11.29-11.30.40:289][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Guillaume/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.29-11.30.40:289][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.29-11.30.40:289][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.29-11.30.40:327][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.29-11.30.40:328][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.29-11.30.40:329][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.29-11.30.40:512][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
+[2018.11.29-11.30.40:861][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.29-11.30.41:275][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.29-11.30.41:318][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.29-11.30.41:318][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.29-11.30.41:318][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.29-11.30.41:318][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.29-11.30.41:393][  0]LogNetVersion: Battle_Tank 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1941966962)
+[2018.11.29-11.30.42:725][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.104084 seconds
+[2018.11.29-11.30.42:733][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.11.29-11.30.42:733][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.11.29-11.30.42:733][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.29-11.30.49:676][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.29-11.30.49:699][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.29-11.30.51:015][  0]SourceControl: Source control is disabled
+[2018.11.29-11.30.51:016][  0]SourceControl: Source control is disabled
+[2018.11.29-11.30.51:045][  0]SourceControl: Source control is disabled
+[2018.11.29-11.30.51:058][  0]SourceControl: Source control is disabled
+[2018.11.29-11.30.51:771][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.29-11.30.51:988][  0]LogOcInput: OculusInput pre-init called
+[2018.11.29-11.30.52:278][  0]LogEngine: Initializing Engine...
+[2018.11.29-11.30.52:278][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.29-11.30.52:280][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.29-11.30.52:280][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.29-11.30.52:280][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.29-11.30.52:280][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.29-11.30.52:771][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.29-11.30.52:835][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.29-11.30.52:853][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-11.30.52:936][  0]LogInit: FAudioDevice initialized.
+[2018.11.29-11.30.52:937][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.29-11.30.53:085][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/Guillaume/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.29-11.30.53:103][  0]LogInit: Texture streaming: Enabled
+[2018.11.29-11.30.53:182][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.29-11.30.53:187][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={08DC7520-41A9-F9D2-3BFE-E49C67C9484F}
+[2018.11.29-11.30.53:245][  0]LogInit: Transaction tracking system initialized
+[2018.11.29-11.30.53:369][  0]BlueprintLog: New page: Editor Load
+[2018.11.29-11.30.53:784][  0]LocalizationService: Localization service is disabled
+[2018.11.29-11.30.55:959][  0]LogFileCache: Scanning file cache for directory 'D:/BattleTank/Battle_Tank/Content/' took 0.03s
+[2018.11.29-11.30.55:959][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.29-11.30.55:959][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.29-11.30.55:959][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.29-11.30.55:959][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.29-11.30.55:959][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.29-11.30.55:959][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.29-11.30.55:959][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.29-11.30.56:763][  0]SourceControl: Source control is disabled
+[2018.11.29-11.30.56:863][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-11.31.51:690][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.11.29-11.31.51:691][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.29-11.31.51:701][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.29-11.31.53:024][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2018.11.29-11.31.53:025][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.29-11.31.53:174][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.29-11.31.53:176][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.29-11.31.53:199][  0]LightingResults: New page: Lighting Build
+[2018.11.29-11.31.53:221][  0]MapCheck: New page: Map Check
+[2018.11.29-11.31.53:221][  0]LightingResults: New page: Lighting Build
+[2018.11.29-11.31.53:534][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.11.29-11.31.53:551][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.29-11.31.53:581][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.29-11.31.53:581][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,138ms to complete.
+[2018.11.29-11.31.53:581][  0]LogFileHelpers: Loading map 'Template_Default' took 0.406
+[2018.11.29-11.31.53:666][  0]LogCollectionManager: Loaded 0 collections in 0.000941 seconds
+[2018.11.29-11.31.53:705][  0]LogFileCache: Scanning file cache for directory 'D:/BattleTank/Battle_Tank/Saved/Collections/' took 0.01s
+[2018.11.29-11.31.53:705][  0]LogFileCache: Scanning file cache for directory 'D:/BattleTank/Battle_Tank/Content/Developers/Guillaume/Collections/' took 0.00s
+[2018.11.29-11.31.53:706][  0]LogFileCache: Scanning file cache for directory 'D:/BattleTank/Battle_Tank/Content/Collections/' took 0.01s
+[2018.11.29-11.31.53:706][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.29-11.31.53:722][  0]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2652 classes and 622 folders.
+[2018.11.29-11.31.53:754][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.11.29-11.31.53:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.53:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.53:856][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.53:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.53:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.53:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.53:932][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.53:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.53:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.53:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:080][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:198][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:239][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.54:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.29-11.31.55:242][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.11.29-11.31.55:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-11.31.55:321][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-11.31.55:329][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-11.31.55:336][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-11.31.55:360][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.29-11.31.55:459][  0]LogSlate: Took 0.023032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-11.31.55:459][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-11.31.55:482][  0]LogSlate: Took 0.015215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.29-11.31.55:633][  0]LogRenderer: Reallocating scene render targets to support 1208x564 Format 9 NumSamples 1 (Frame:1).
+[2018.11.29-11.31.55:830][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.11.29-11.31.55:831][  0]LogLoad: (Engine Initialization) Total time: 95.46 seconds
+[2018.11.29-11.31.55:831][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.29-11.31.55:908][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.11.29-11.31.55:918][  0]LogSlate: Took 0.005771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-11.31.56:175][  2]LogAssetRegistry: Asset discovery search completed in 75.6848 seconds
+[2018.11.29-11.31.56:179][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.29-11.31.56:180][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000465 seconds (updated 0 objects)
+[2018.11.29-11.31.57:584][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.31.57:648][ 89]LogSlate: Window 'Message Log' being destroyed
+[2018.11.29-11.31.57:652][ 89]LogSlate: Window 'Message Log' being destroyed
+[2018.11.29-11.32.03:307][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.32.15:449][156]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-11.32.15:478][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:479][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading ../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW.umap.
+[2018.11.29-11.32.15:479][156]LoadErrors: Error: /Game/BattleGround_LOW : Can't find file for asset. /Game/FlatLand
+[2018.11.29-11.32.15:480][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:480][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading ../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW.umap.
+[2018.11.29-11.32.15:485][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:485][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:485][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:485][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:487][156]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] InputAction Event references unknown Action 'Quit' for  InputAction Quit
+[2018.11.29-11.32.15:488][156]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] [0115,11] Compile of PersistentLevel.BattleGround_LOW successful, but with 1 Warning(s) [in 2 ms] (/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW)
+[2018.11.29-11.32.15:498][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:499][156]LoadErrors: Failed to load /Game/FlatLand.FlatLand Referenced by Landscape_1
+[2018.11.29-11.32.15:499][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:499][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:499][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:500][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:500][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:500][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:501][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:501][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:501][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:501][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:502][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:502][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:502][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:503][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:503][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:503][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:503][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:504][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:504][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:504][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:505][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:505][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:505][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:506][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:506][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:506][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:507][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:507][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:507][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:508][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:508][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:508][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:509][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:509][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:509][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:510][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:510][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:510][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:510][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:511][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:511][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:511][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:511][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:512][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:512][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:512][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:513][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:513][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:513][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:513][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:514][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:514][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:514][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:514][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:515][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:515][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:515][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:516][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:516][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:516][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:516][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:517][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:517][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:517][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:518][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:518][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:518][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:518][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:519][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:519][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:519][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:519][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:520][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:520][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:520][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:521][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:521][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:521][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:521][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:522][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:522][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:522][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:522][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:523][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:523][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:523][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:523][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:524][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:524][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:525][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:525][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:525][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:525][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:526][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:526][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:526][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:526][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:527][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:527][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:527][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:528][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:528][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:528][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:528][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:529][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:529][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:529][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:529][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:530][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:530][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:530][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:531][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:531][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:531][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:531][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:532][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:532][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:532][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:532][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:533][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:533][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:533][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:534][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:534][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:534][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:534][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:535][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:535][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:535][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:546][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:546][156]LoadErrors: Failed to load /Game/FlatLand.FlatLand Referenced by LandscapeMaterialInstanceConstant_583
+[2018.11.29-11.32.15:547][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:547][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:547][156]LoadErrors: Failed to load /Game/FlatLand.FlatLand Referenced by LandscapeMaterialInstanceConstant_585
+[2018.11.29-11.32.15:547][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:548][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:548][156]LoadErrors: Failed to load /Game/FlatLand.FlatLand Referenced by LandscapeMaterialInstanceConstant_586
+[2018.11.29-11.32.15:548][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:548][156]LogLinker: Warning: Can't find file '/Game/FlatLand'
+[2018.11.29-11.32.15:549][156]LoadErrors: Failed to load /Game/FlatLand.FlatLand Referenced by LandscapeMaterialInstanceConstant_588
+[2018.11.29-11.32.15:549][156]LogLinker: Warning: Can't find file for asset '/Game/FlatLand' while loading NULL.
+[2018.11.29-11.32.15:571][156]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-11.32.15:593][156]LogAssetEditorManager: Opening Asset editor for World /Game/BattleGround_LOW.BattleGround_LOW
+[2018.11.29-11.32.15:620][156]Cmd: MAP LOAD FILE="../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.29-11.32.15:620][156]LightingResults: New page: Lighting Build
+[2018.11.29-11.32.15:621][156]LoadErrors: New page: Loading map: BattleGround_LOW.umap
+[2018.11.29-11.32.15:621][156]MapCheck: New page: Map Check
+[2018.11.29-11.32.15:622][156]LightingResults: New page: Lighting Build
+[2018.11.29-11.32.15:746][156]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.29-11.32.15:791][156]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.29-11.32.15:793][156]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,459ms to complete.
+[2018.11.29-11.32.15:793][156]LogFileHelpers: Loading map 'BattleGround_LOW' took 0.173
+[2018.11.29-11.32.23:208][597]LogAssetEditorManager: Opening Asset editor for Material /Game/Landscape.Landscape
+[2018.11.29-11.32.23:214][597]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2018.11.29-11.32.23:698][597]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2018.11.29-11.32.23:729][597]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2018.11.29-11.32.23:759][597]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.29-11.32.23:760][597]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.29-11.32.23:760][597]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.29-11.32.23:789][597]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.11.29-11.32.23:797][597]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.11.29-11.32.23:847][597]LogSlate: Took 0.010503 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-11.32.24:147][602]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.29-11.32.24:805][640]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.29-11.32.25:065][655]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.29-11.32.25:406][666]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.29-11.32.25:448][666]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.29-11.32.25:481][666]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.29-11.32.25:639][666]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.29-11.32.25:649][666]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.29-11.32.25:659][666]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.29-11.32.25:837][666]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.29-11.32.26:105][666]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.29-11.32.26:147][666]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.29-11.32.26:175][666]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.29-11.32.26:386][666]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.29-11.32.26:465][666]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.29-11.32.26:511][666]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.29-11.32.26:739][666]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.29-11.32.26:751][666]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.29-11.32.26:855][666]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.29-11.32.27:053][666]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.29-11.32.27:063][666]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.29-11.32.27:081][666]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.29-11.32.27:306][666]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.29-11.32.27:363][666]LogSlate: Window 'Landscape' being destroyed
+[2018.11.29-11.32.27:390][667]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.11.29-11.32.27:391][667]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2018.11.29-11.32.27:391][667]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.29-11.32.27:391][667]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.29-11.32.29:260][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.32.46:808][796]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.11.29-11.32.56:125][276]LogSlate: Window 'Message' being destroyed
+[2018.11.29-11.32.57:980][316]LogSlate: Window 'Message' being destroyed
+[2018.11.29-11.33.14:359][295]LogMaterialEditor: Saving and Compiling material Landscape
+[2018.11.29-11.33.14:399][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="../../../../../BattleTank/Battle_Tank/Content/Landscape.uasset" SILENT=true
+[2018.11.29-11.33.14:433][295]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Landscape1E30D32E4DBF103119F7958E19FFE03C.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Landscape.uasset'
+[2018.11.29-11.33.21:720][716]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.11.29-11.33.21:740][716]Candidate modules for hot reload:
+[2018.11.29-11.33.21:741][716]  Battle_Tank
+[2018.11.29-11.33.21:753][716]Launching UnrealBuildTool... [D:/Jeux/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Battle_Tank,308 Win64 Development -TargetType=Editor -Project="../../../../../BattleTank/Battle_Tank/Battle_Tank.uproject" -canskiplink "D:/BattleTank/Battle_Tank/Battle_Tank.uproject" ]
+[2018.11.29-11.33.21:757][716]Warning: Starting HotReload took  0.1s.
+[2018.11.29-11.34.54:090][237]CompilerResultsLog: New page: Compilation - 29 nov. 2018 13:34:54
+[2018.11.29-11.34.54:102][237]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\BattleTank).
+[2018.11.29-11.34.54:102][237]CompilerResultsLog: Creating makefile for hot reloading Battle_TankEditor (no existing makefile)
+[2018.11.29-11.34.54:103][237]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.29-11.34.54:103][237]CompilerResultsLog: Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2018.11.29-11.34.54:103][237]CompilerResultsLog: Target is up to date
+[2018.11.29-11.34.54:103][237]CompilerResultsLog: Total build time: 91,91 seconds (NoActionsToExecute executor: 0,00 seconds)
+[2018.11.29-11.34.54:103][237]LogMainFrame: MainFrame: Module compiling took 92.383 seconds
+[2018.11.29-11.34.54:138][237]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2653 classes and 624 folders.
+[2018.11.29-11.34.54:191][237]Display: HotReload took 92.5s.
+[2018.11.29-11.36.08:539][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.36.18:051][231]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2018.11.29-11.36.18:084][231]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.29-11.36.18:084][231]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.29-11.36.18:084][231]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.29-11.36.18:091][231]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2018.11.29-11.36.24:017][576]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.29-11.36.24:257][590]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.29-11.36.36:041][289]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-11.36.36:173][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-11.36.36:188][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-11.36.36:188][289]PIE: New page: PIE session: BattleGround_LOW (29 nov. 2018 13:36:36)
+[2018.11.29-11.36.36:366][289]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround_LOW
+[2018.11.29-11.36.36:413][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046680s)
+[2018.11.29-11.36.36:415][289]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-11.36.36:427][289]LogPlayLevel: PIE: World Init took: (0.013210s)
+[2018.11.29-11.36.36:427][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround_LOW.BattleGround_LOW to /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW (0.061036s)
+[2018.11.29-11.36.36:468][289]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-11.36.36:525][289]LogInit: FAudioDevice initialized.
+[2018.11.29-11.36.36:599][289]LogLoad: Game class is 'GameModeBase'
+[2018.11.29-11.36.36:705][289]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW up for play (max tick rate 60) at 2018.11.29-12.36.36
+[2018.11.29-11.36.36:719][289]LogWorld: Bringing up level for play took: 0.016695
+[2018.11.29-11.36.36:923][289]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2018.11.29-11.36.36:942][289]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround_LOW 0,692
+[2018.11.29-11.36.36:942][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-11.36.38:034][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-11.36.38:036][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-11.36.38:072][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-11.36.38:073][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-11.36.38:134][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-11.36.38:168][344]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.11.29-11.37.30:653][485]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-11.37.32:564][485]LogSlate: Window 'Message' being destroyed
+[2018.11.29-11.37.33:548][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-11.37.34:667][544]LogSlate: Window 'Message' being destroyed
+[2018.11.29-11.37.35:619][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-11.37.36:762][601]LogSlate: Window 'Message' being destroyed
+[2018.11.29-11.37.40:641][834]Cmd: SELECT NONE
+[2018.11.29-11.37.42:218][910]Cmd: SELECT NONE
+[2018.11.29-11.37.42:921][952]Cmd: SELECT NONE
+[2018.11.29-11.37.43:356][978]Cmd: SELECT NONE
+[2018.11.29-11.37.43:729][  0]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2018.11.29-11.37.44:020][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-11.37.45:198][ 64]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2018.11.29-11.37.45:219][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-11.37.46:283][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.37.47:483][187]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.11.29-11.37.56:012][362]LogSlate: Window 'Message' being destroyed
+[2018.11.29-11.37.57:859][362]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2018.11.29-11.38.02:490][520]LogSlate: Window 'Message' being destroyed
+[2018.11.29-11.38.04:866][520]LogSlate: Window 'Message' being destroyed
+[2018.11.29-11.38.05:848][520]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2018.11.29-11.38.08:772][591]LogSlate: Window 'Message' being destroyed
+[2018.11.29-11.38.10:355][686]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-11.38.11:402][686]LogSlate: Window 'Message' being destroyed
+[2018.11.29-11.38.20:637][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-11.38.21:903][240]LogSlate: Window 'Message' being destroyed
+[2018.11.29-11.38.22:604][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-11.38.24:040][282]LogSlate: Window 'Message' being destroyed
+[2018.11.29-11.38.25:703][382]Cmd: SELECT NONE
+[2018.11.29-11.38.27:175][470]Cmd: SELECT NONE
+[2018.11.29-11.38.27:563][493]Cmd: SELECT NONE
+[2018.11.29-11.38.27:899][513]Cmd: SELECT NONE
+[2018.11.29-11.38.28:101][525]Cmd: SELECT NONE
+[2018.11.29-11.38.28:251][534]Cmd: SELECT NONE
+[2018.11.29-11.38.28:635][557]Cmd: SELECT NONE
+[2018.11.29-11.38.29:005][579]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2018.11.29-11.38.29:049][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-11.38.30:122][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.38.40:657][ 55]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.29-11.38.41:082][ 55]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 32X32)
+[2018.11.29-11.38.41:089][ 55]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2018.11.29-11.38.41:108][ 55]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 32X32)
+[2018.11.29-11.38.41:111][ 55]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 32X32)
+[2018.11.29-11.38.41:114][ 55]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 32X32)
+[2018.11.29-11.38.41:117][ 55]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 32X32)
+[2018.11.29-11.38.41:120][ 55]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 32X32)
+[2018.11.29-11.38.41:122][ 55]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 32X32)
+[2018.11.29-11.38.41:125][ 55]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 32X32)
+[2018.11.29-11.38.41:128][ 55]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2018.11.29-11.38.41:131][ 55]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 32X32)
+[2018.11.29-11.38.41:133][ 55]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 32X32)
+[2018.11.29-11.38.41:136][ 55]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 32X32)
+[2018.11.29-11.38.41:139][ 55]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 32X32)
+[2018.11.29-11.38.41:142][ 55]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 32X32)
+[2018.11.29-11.38.41:145][ 55]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 32X32)
+[2018.11.29-11.38.41:148][ 55]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 32X32)
+[2018.11.29-11.38.41:150][ 55]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 32X32)
+[2018.11.29-11.38.41:154][ 55]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 32X32)
+[2018.11.29-11.38.41:156][ 55]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 32X32)
+[2018.11.29-11.38.41:158][ 55]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 32X32)
+[2018.11.29-11.38.41:161][ 55]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 32X32)
+[2018.11.29-11.38.41:164][ 55]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 32X32)
+[2018.11.29-11.38.41:167][ 55]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 32X32)
+[2018.11.29-11.38.41:169][ 55]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 32X32)
+[2018.11.29-11.38.41:172][ 55]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 32X32)
+[2018.11.29-11.38.41:175][ 55]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 32X32)
+[2018.11.29-11.38.41:178][ 55]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 32X32)
+[2018.11.29-11.38.56:351][852]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2018.11.29-11.38.56:373][852]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 32X32)
+[2018.11.29-11.38.56:431][852]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 32X32)
+[2018.11.29-11.38.56:442][852]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 32X32)
+[2018.11.29-11.38.56:451][852]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 32X32)
+[2018.11.29-11.38.56:461][852]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 32X32)
+[2018.11.29-11.38.56:470][852]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2018.11.29-11.38.56:481][852]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 32X32)
+[2018.11.29-11.38.56:491][852]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 32X32)
+[2018.11.29-11.38.56:500][852]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 32X32)
+[2018.11.29-11.38.56:511][852]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 32X32)
+[2018.11.29-11.38.56:520][852]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 32X32)
+[2018.11.29-11.38.56:530][852]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 32X32)
+[2018.11.29-11.38.56:540][852]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 32X32)
+[2018.11.29-11.38.56:550][852]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 32X32)
+[2018.11.29-11.38.56:560][852]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 32X32)
+[2018.11.29-11.38.56:570][852]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 32X32)
+[2018.11.29-11.39.03:009][ 85]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2018.11.29-11.39.08:935][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround_LOW" FILE="../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.29-11.39.08:975][436]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] InputAction Event references unknown Action 'Quit' for  InputAction Quit
+[2018.11.29-11.39.08:976][436]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] [0528,60] Compile of PersistentLevel.BattleGround_LOW successful, but with 1 Warning(s) [in 2 ms] (/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW)
+[2018.11.29-11.39.09:109][436]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 32X32)
+[2018.11.29-11.39.09:110][436]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 32X32)
+[2018.11.29-11.39.09:112][436]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2018.11.29-11.39.09:113][436]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 32X32)
+[2018.11.29-11.39.09:114][436]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 32X32)
+[2018.11.29-11.39.09:114][436]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 32X32)
+[2018.11.29-11.39.09:115][436]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 32X32)
+[2018.11.29-11.39.09:116][436]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 32X32)
+[2018.11.29-11.39.09:117][436]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 32X32)
+[2018.11.29-11.39.09:118][436]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 32X32)
+[2018.11.29-11.39.09:118][436]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 32X32)
+[2018.11.29-11.39.09:119][436]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 32X32)
+[2018.11.29-11.39.09:120][436]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 32X32)
+[2018.11.29-11.39.09:120][436]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 32X32)
+[2018.11.29-11.39.09:121][436]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 32X32)
+[2018.11.29-11.39.09:122][436]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 32X32)
+[2018.11.29-11.39.09:334][436]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/BattleGround_LOW5850FD86455DDF78404AE2B8B4A75D56.tmp' to '../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW.umap'
+[2018.11.29-11.39.09:367][436]LogFileHelpers: Saving map 'BattleGround_LOW' took 0.432
+[2018.11.29-11.39.09:374][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround_LOW_sharedassets/Grass_LayerInfo" FILE="../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW_sharedassets/Grass_LayerInfo.uasset" SILENT=true
+[2018.11.29-11.39.09:384][436]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Grass_LayerInfo8042161142B193532950BF81954D971F.tmp' to '../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW_sharedassets/Grass_LayerInfo.uasset'
+[2018.11.29-11.39.09:396][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround_LOW_sharedassets/Dirt_LayerInfo" FILE="../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW_sharedassets/Dirt_LayerInfo.uasset" SILENT=true
+[2018.11.29-11.39.09:406][436]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Dirt_LayerInfoA13811CA4C755D195083B482BCE36142.tmp' to '../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW_sharedassets/Dirt_LayerInfo.uasset'
+[2018.11.29-11.39.50:346][ 39]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 32X32)
+[2018.11.29-11.39.50:400][ 39]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 32X32)
+[2018.11.29-11.39.50:658][ 54]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 32X32)
+[2018.11.29-11.39.51:177][ 85]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 32X32)
+[2018.11.29-11.39.51:734][118]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 32X32)
+[2018.11.29-11.39.55:199][324]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 32X32)
+[2018.11.29-11.39.55:628][349]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 32X32)
+[2018.11.29-11.39.57:183][442]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 32X32)
+[2018.11.29-11.39.59:887][603]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 32X32)
+[2018.11.29-11.40.02:918][783]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 32X32)
+[2018.11.29-11.40.04:903][901]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 32X32)
+[2018.11.29-11.40.06:789][ 13]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 32X32)
+[2018.11.29-11.40.18:742][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.40.27:137][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-11.40.41:690][447]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Guillaume/Downloads/BT12-TankParts/tank.fbx_Barrel.fbx)
+[2018.11.29-11.40.41:710][447]LogFbx: Loading FBX Scene from C:/Users/Guillaume/Downloads/BT12-TankParts/tank.fbx_Barrel.fbx
+[2018.11.29-11.40.41:719][447]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.29-11.40.58:057][447]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.29-11.40.58:222][447]LogMaterial: Display: Missing cached shader map for material tank_green_002, compiling. 
+[2018.11.29-11.40.58:238][447]LogFbx: Warning: Triangulating static mesh cannon
+[2018.11.29-11.40.58:297][447]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.29-11.40.58:297][447]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.29-11.40.58:297][447]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.29-11.40.58:302][447]LogStaticMesh: Building static mesh tank_fbx_Barrel...
+[2018.11.29-11.40.58:312][447]LogStaticMesh: Built static mesh [0.01s] /Game/Tank/tank_fbx_Barrel.tank_fbx_Barrel
+[2018.11.29-11.40.58:317][447]LogStaticMesh: Warning: tank_fbx_Barrel has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.11.29-11.40.58:318][447]LogStaticMesh: Warning: tank_fbx_Barrel has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.29-11.40.58:329][447]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.11.29-11.40.58:331][447]FBXImport: Warning: tank_fbx_Barrel has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.11.29-11.40.58:331][447]FBXImport: Warning: tank_fbx_Barrel has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.29-11.40.58:346][447]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Guillaume/Downloads/BT12-TankParts/tank.fbx_Body.fbx)
+[2018.11.29-11.40.58:362][447]LogFbx: Loading FBX Scene from C:/Users/Guillaume/Downloads/BT12-TankParts/tank.fbx_Body.fbx
+[2018.11.29-11.40.58:393][447]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.29-11.40.58:420][447]LogMaterial: Display: Missing cached shader map for material tank_green, compiling. 
+[2018.11.29-11.40.58:436][447]LogFbx: Warning: Triangulating static mesh hull
+[2018.11.29-11.40.58:457][447]LogFbx: Warning: Triangulating static mesh headlight.002
+[2018.11.29-11.40.58:471][447]LogFbx: Warning: Triangulating static mesh turret neck
+[2018.11.29-11.40.58:476][447]LogFbx: Warning: Triangulating static mesh oil drum
+[2018.11.29-11.40.58:616][447]LogFbx: Warning: Triangulating static mesh wheel rear
+[2018.11.29-11.40.58:829][447]LogFbx: Warning: Triangulating static mesh wheel front
+[2018.11.29-11.40.58:994][447]LogFbx: Warning: Triangulating static mesh Hull V
+[2018.11.29-11.40.58:997][447]LogFbx: Warning: Triangulating static mesh wheel
+[2018.11.29-11.40.59:960][447]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.29-11.40.59:960][447]LogFbx: Warning: Triangulating static mesh track guard
+[2018.11.29-11.41.00:241][447]LogStaticMesh: Building static mesh tank_fbx_Body...
+[2018.11.29-11.41.00:770][447]LogStaticMesh: Built static mesh [0.53s] /Game/Tank/tank_fbx_Body.tank_fbx_Body
+[2018.11.29-11.41.00:870][447]LogStaticMesh: Warning: tank_fbx_Body has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.11.29-11.41.00:870][447]LogStaticMesh: Warning: tank_fbx_Body has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.29-11.41.00:980][447]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.11.29-11.41.00:981][447]FBXImport: Warning: tank_fbx_Body has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.11.29-11.41.00:982][447]FBXImport: Warning: tank_fbx_Body has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.29-11.41.01:091][447]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Guillaume/Downloads/BT12-TankParts/tank.fbx_Track.fbx)
+[2018.11.29-11.41.01:104][447]LogFbx: Loading FBX Scene from C:/Users/Guillaume/Downloads/BT12-TankParts/tank.fbx_Track.fbx
+[2018.11.29-11.41.01:117][447]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.29-11.41.01:125][447]LogMaterial: Display: Missing cached shader map for material track_001, compiling. 
+[2018.11.29-11.41.01:140][447]LogFbx: Warning: Triangulating static mesh track.001
+[2018.11.29-11.41.01:850][447]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.29-11.41.01:850][447]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.29-11.41.01:901][447]LogStaticMesh: Building static mesh tank_fbx_Track...
+[2018.11.29-11.41.02:246][447]LogStaticMesh: Built static mesh [0.35s] /Game/Tank/tank_fbx_Track.tank_fbx_Track
+[2018.11.29-11.41.02:282][447]LogStaticMesh: Warning: tank_fbx_Track has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.11.29-11.41.02:283][447]LogStaticMesh: Warning: tank_fbx_Track has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.29-11.41.02:327][447]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.11.29-11.41.02:328][447]FBXImport: Warning: tank_fbx_Track has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.11.29-11.41.02:328][447]FBXImport: Warning: tank_fbx_Track has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.29-11.41.02:371][447]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Guillaume/Downloads/BT12-TankParts/tank.fbx_Turret.fbx)
+[2018.11.29-11.41.02:385][447]LogFbx: Loading FBX Scene from C:/Users/Guillaume/Downloads/BT12-TankParts/tank.fbx_Turret.fbx
+[2018.11.29-11.41.02:394][447]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.29-11.41.02:403][447]LogMaterial: Display: Missing cached shader map for material tank_green_001, compiling. 
+[2018.11.29-11.41.02:419][447]LogFbx: Warning: Triangulating static mesh turret.001
+[2018.11.29-11.41.02:441][447]LogFbx: Warning: Triangulating static mesh Commanders hatch.001
+[2018.11.29-11.41.02:469][447]LogFbx: Warning: Triangulating static mesh gunner sight.001
+[2018.11.29-11.41.02:471][447]LogFbx: Warning: Triangulating static mesh headlight.004
+[2018.11.29-11.41.02:495][447]LogStaticMesh: Building static mesh tank_fbx_Turret...
+[2018.11.29-11.41.02:509][447]LogStaticMesh: Built static mesh [0.01s] /Game/Tank/tank_fbx_Turret.tank_fbx_Turret
+[2018.11.29-11.41.02:513][447]LogStaticMesh: Warning: tank_fbx_Turret has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.11.29-11.41.02:514][447]LogStaticMesh: Warning: tank_fbx_Turret has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.29-11.41.02:528][447]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.11.29-11.41.02:529][447]FBXImport: Warning: tank_fbx_Turret has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.11.29-11.41.02:529][447]FBXImport: Warning: tank_fbx_Turret has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.29-11.41.04:038][527]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.29-11.41.05:247][598]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.29-11.41.08:458][786]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.29-11.41.10:237][890]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.29-11.41.13:079][ 57]LogSlate: Window 'Message Log' being destroyed
+[2018.11.29-11.41.13:082][ 57]LogSlate: Window 'Message Log' being destroyed
+[2018.11.29-11.41.22:450][546]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.29-11.41.38:463][272]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Tank/Tank.PackageMetaData'
+[2018.11.29-11.41.38:463][272]LogMetaData: Removing '/Game/Tank/Tank_BP.SKEL_Tank_BP_C' ref from Metadata '/Game/Tank/Tank.PackageMetaData'
+[2018.11.29-11.41.38:463][272]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP_C' ref from Metadata '/Game/Tank/Tank.PackageMetaData'
+[2018.11.29-11.41.38:463][272]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Tank/Tank.PackageMetaData'
+[2018.11.29-11.41.38:464][272]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Tank/Tank.PackageMetaData'
+[2018.11.29-11.41.38:464][272]LogMetaData: Removing '/Game/Tank/Tank_BP.Tank_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Tank/Tank.PackageMetaData'
+[2018.11.29-11.41.38:516][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2018.11.29-11.41.38:544][272]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Tank_BP47EB9FEC4DA9D938775FB799245DBFCE.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2018.11.29-11.41.39:398][311]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Tank/Tank_BP.Tank_BP
+[2018.11.29-11.41.39:891][311]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2018.11.29-11.41.42:332][388]LogRenderer: Reallocating scene render targets to support 1224x900 Format 9 NumSamples 1 (Frame:58).
+[2018.11.29-11.41.42:599][404]LogSlate: Window 'Tank_BP' being destroyed
+[2018.11.29-11.41.44:547][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround_LOW" FILE="../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.29-11.41.44:594][519]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] InputAction Event references unknown Action 'Quit' for  InputAction Quit
+[2018.11.29-11.41.44:596][519]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] [0684,22] Compile of PersistentLevel.BattleGround_LOW successful, but with 1 Warning(s) [in 2 ms] (/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW)
+[2018.11.29-11.41.44:750][519]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 32X32)
+[2018.11.29-11.41.44:753][519]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 32X32)
+[2018.11.29-11.41.44:754][519]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 32X32)
+[2018.11.29-11.41.44:755][519]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 32X32)
+[2018.11.29-11.41.44:755][519]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 32X32)
+[2018.11.29-11.41.44:756][519]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 32X32)
+[2018.11.29-11.41.44:756][519]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 32X32)
+[2018.11.29-11.41.44:757][519]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 32X32)
+[2018.11.29-11.41.44:757][519]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 32X32)
+[2018.11.29-11.41.44:758][519]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 32X32)
+[2018.11.29-11.41.44:759][519]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 32X32)
+[2018.11.29-11.41.44:760][519]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 32X32)
+[2018.11.29-11.41.44:761][519]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 32X32)
+[2018.11.29-11.41.44:761][519]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 32X32)
+[2018.11.29-11.41.44:762][519]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 32X32)
+[2018.11.29-11.41.44:762][519]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 32X32)
+[2018.11.29-11.41.44:763][519]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2018.11.29-11.41.44:764][519]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 32X32)
+[2018.11.29-11.41.44:764][519]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 32X32)
+[2018.11.29-11.41.44:765][519]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 32X32)
+[2018.11.29-11.41.44:765][519]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 32X32)
+[2018.11.29-11.41.44:766][519]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 32X32)
+[2018.11.29-11.41.44:767][519]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 32X32)
+[2018.11.29-11.41.44:767][519]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 32X32)
+[2018.11.29-11.41.44:768][519]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 32X32)
+[2018.11.29-11.41.44:769][519]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 32X32)
+[2018.11.29-11.41.44:770][519]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 32X32)
+[2018.11.29-11.41.44:770][519]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 32X32)
+[2018.11.29-11.41.45:009][519]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/BattleGround_LOWD5CBC3D242FF778A2833EE9B669DCBB8.tmp' to '../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW.umap'
+[2018.11.29-11.41.46:807][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2018.11.29-11.41.46:828][621]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Tank_BPB2BB4B5C4BE8B31A8F028B8BC9B16229.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2018.11.29-11.41.56:037][770]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.464 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.29-11.43.56:079][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround_LOW" FILE="../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.29-11.43.56:122][542]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] InputAction Event references unknown Action 'Quit' for  InputAction Quit
+[2018.11.29-11.43.56:123][542]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] [0815,75] Compile of PersistentLevel.BattleGround_LOW successful, but with 1 Warning(s) [in 3 ms] (/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW)
+[2018.11.29-11.43.56:517][542]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/BattleGround_LOWD5F6E1B04559E3A80F1E44AED22E77CD.tmp' to '../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW.umap'
+[2018.11.29-11.51.07:418][559]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Tank/tank_fbx_Body.tank_fbx_Body
+[2018.11.29-11.51.08:498][560]LogRenderer: Reallocating scene render targets to support 1432x924 Format 9 NumSamples 1 (Frame:1).
+[2018.11.29-11.51.44:214][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.53.20:306][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.53.58:477][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.54.49:368][848]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BattleGround_LOW' took 0.365
+[2018.11.29-11.54.49:380][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/tank_fbx_Barrel] ([1] browsable assets)...
+[2018.11.29-11.54.49:402][848]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Tank/tank_fbx_Barrel.tank_fbx_Barrel]
+[2018.11.29-11.54.49:402][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/tank_fbx_Barrel]
+[2018.11.29-11.54.49:403][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_fbx_Barrel" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_fbx_Barrel_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-11.54.49:441][848]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_fbx_Barrel_Auto18E942B4E48707387BBED49996266302F.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_fbx_Barrel_Auto1.uasset'
+[2018.11.29-11.54.49:445][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/tank_green_002] ([1] browsable assets)...
+[2018.11.29-11.54.49:467][848]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Tank/tank_green_002.tank_green_002]
+[2018.11.29-11.54.49:467][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/tank_green_002]
+[2018.11.29-11.54.49:468][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_green_002" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_green_002_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-11.54.49:519][848]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_green_002_Auto1A17F70AE41B70628B436998AEF8DB2DD.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_green_002_Auto1.uasset'
+[2018.11.29-11.54.49:521][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/tank_fbx_Body] ([1] browsable assets)...
+[2018.11.29-11.54.49:537][848]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Tank/tank_fbx_Body.tank_fbx_Body]
+[2018.11.29-11.54.49:537][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/tank_fbx_Body]
+[2018.11.29-11.54.49:538][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_fbx_Body" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_fbx_Body_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-11.54.49:571][848]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_fbx_Body_Auto1B02018584F35ED5C72F8F98C423340DC.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_fbx_Body_Auto1.uasset'
+[2018.11.29-11.54.49:572][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/tank_green] ([1] browsable assets)...
+[2018.11.29-11.54.49:587][848]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Tank/tank_green.tank_green]
+[2018.11.29-11.54.49:587][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/tank_green]
+[2018.11.29-11.54.49:588][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_green" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_green_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-11.54.49:614][848]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_green_Auto165EEF2DE47551A0362A4AAA97CEE0A14.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_green_Auto1.uasset'
+[2018.11.29-11.54.49:616][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/tank_fbx_Track] ([1] browsable assets)...
+[2018.11.29-11.54.49:631][848]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Tank/tank_fbx_Track.tank_fbx_Track]
+[2018.11.29-11.54.49:632][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/tank_fbx_Track]
+[2018.11.29-11.54.49:632][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_fbx_Track" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_fbx_Track_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-11.54.49:658][848]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_fbx_Track_Auto1B74EBC7942AF2E8BCD4FCFAA18D5CD77.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_fbx_Track_Auto1.uasset'
+[2018.11.29-11.54.49:661][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/track_001] ([1] browsable assets)...
+[2018.11.29-11.54.49:680][848]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Tank/track_001.track_001]
+[2018.11.29-11.54.49:681][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/track_001]
+[2018.11.29-11.54.49:681][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/track_001" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/track_001_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-11.54.49:705][848]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/track_001_Auto18592F6F24525ECF1B948CCA9FA74F543.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/track_001_Auto1.uasset'
+[2018.11.29-11.54.49:707][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/tank_fbx_Turret] ([1] browsable assets)...
+[2018.11.29-11.54.49:721][848]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Tank/tank_fbx_Turret.tank_fbx_Turret]
+[2018.11.29-11.54.49:721][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/tank_fbx_Turret]
+[2018.11.29-11.54.49:721][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_fbx_Turret" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_fbx_Turret_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-11.54.49:745][848]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_fbx_Turret_Auto1A52929D74A6420C99A80DC81086EB3AF.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_fbx_Turret_Auto1.uasset'
+[2018.11.29-11.54.49:746][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/tank_green_001] ([1] browsable assets)...
+[2018.11.29-11.54.49:761][848]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Tank/tank_green_001.tank_green_001]
+[2018.11.29-11.54.49:761][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/tank_green_001]
+[2018.11.29-11.54.49:761][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_green_001" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_green_001_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-11.54.49:789][848]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_green_001_Auto1737CCFC34957F7DBECCD4797745DDFD8.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_green_001_Auto1.uasset'
+[2018.11.29-11.54.49:790][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/Tank_BP] ([1] browsable assets)...
+[2018.11.29-11.54.49:805][848]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tank/Tank_BP.Tank_BP]
+[2018.11.29-11.54.49:805][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/Tank_BP]
+[2018.11.29-11.54.49:805][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/Tank_BP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-11.54.49:873][848]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Tank_BP_Auto147421C384D0D6B403EEE99B9A13159FA.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/Tank_BP_Auto1.uasset'
+[2018.11.29-11.54.49:874][848]LogFileHelpers: Auto-saving content packages took 0.505
+[2018.11.29-11.55.05:924][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-11.55.36:669][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.55.44:617][785]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Tank/tank_fbx_Barrel.tank_fbx_Barrel
+[2018.11.29-11.56.02:853][271]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Tank/tank_fbx_Turret.tank_fbx_Turret
+[2018.11.29-11.56.34:849][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.56.46:049][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.57.09:654][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.57.35:433][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-11.57.42:123][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_fbx_Turret" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/tank_fbx_Turret.uasset" SILENT=true
+[2018.11.29-11.57.42:146][173]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_fbx_Turret62641E284B99F1E199B9FA91B68D9A67.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/tank_fbx_Turret.uasset'
+[2018.11.29-11.58.12:937][  9]BlueprintLog: New page: Compile Tank_BP
+[2018.11.29-11.58.13:769][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2018.11.29-11.58.13:797][ 31]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Tank_BPC7D409D542419BDBA6D77CA25FDC6915.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2018.11.29-11.59.30:687][315]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Tank/tank_fbx_Body.tank_fbx_Body
+[2018.11.29-12.00.30:700][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-12.00.41:374][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-12.04.50:123][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-12.04.50:175][ 77]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BattleGround_LOW' took 0.038
+[2018.11.29-12.04.50:177][ 77]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/tank_fbx_Body] ([1] browsable assets)...
+[2018.11.29-12.04.50:190][ 77]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Tank/tank_fbx_Body.tank_fbx_Body]
+[2018.11.29-12.04.50:191][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/tank_fbx_Body]
+[2018.11.29-12.04.50:191][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_fbx_Body" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_fbx_Body_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-12.04.50:216][ 77]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_fbx_Body_Auto2C5784714452480B56BFA06B6BD21A753.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/tank_fbx_Body_Auto2.uasset'
+[2018.11.29-12.04.50:218][ 77]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/Tank_BP] ([1] browsable assets)...
+[2018.11.29-12.04.50:228][ 77]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tank/Tank_BP.Tank_BP]
+[2018.11.29-12.04.50:228][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/Tank_BP]
+[2018.11.29-12.04.50:228][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/Tank_BP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-12.04.50:266][ 77]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Tank_BP_Auto277756C4B4F5249F606F3C4BA4CF5D484.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/Tank_BP_Auto2.uasset'
+[2018.11.29-12.04.50:267][ 77]LogFileHelpers: Auto-saving content packages took 0.091
+[2018.11.29-12.05.09:389][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-12.05.39:333][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-12.06.02:941][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-12.06.11:895][931]BlueprintLog: New page: Compile Tank_BP
+[2018.11.29-12.06.12:562][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2018.11.29-12.06.12:594][944]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Tank_BP7C3E29B741F7227287CE999253A5202C.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2018.11.29-12.06.16:790][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-12.06.25:235][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-12.06.31:554][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-12.06.31:587][928]BlueprintLog: New page: Compile Tank_BP
+[2018.11.29-12.06.56:079][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-12.07.03:383][676]Cmd: SELECT NONE
+[2018.11.29-12.07.07:357][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-12.07.09:391][ 19]Cmd: SELECT NONE
+[2018.11.29-12.07.10:557][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-12.07.10:575][ 88]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-12.07.10:576][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-12.07.10:576][ 88]PIE: New page: PIE session: BattleGround_LOW (29 nov. 2018 14:07:10)
+[2018.11.29-12.07.10:577][ 88]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround_LOW
+[2018.11.29-12.07.10:612][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035208s)
+[2018.11.29-12.07.10:614][ 88]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-12.07.10:614][ 88]LogPlayLevel: PIE: World Init took: (0.001827s)
+[2018.11.29-12.07.10:614][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround_LOW.BattleGround_LOW to /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW (0.037762s)
+[2018.11.29-12.07.10:653][ 88]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-12.07.10:705][ 88]LogInit: FAudioDevice initialized.
+[2018.11.29-12.07.10:741][ 88]LogLoad: Game class is 'GameModeBase'
+[2018.11.29-12.07.10:744][ 88]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW up for play (max tick rate 60) at 2018.11.29-13.07.10
+[2018.11.29-12.07.10:806][ 88]LogWorld: Bringing up level for play took: 0.064093
+[2018.11.29-12.07.10:820][ 88]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround_LOW 0,57
+[2018.11.29-12.07.10:820][ 88]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-12.07.18:918][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-12.07.18:919][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-12.07.19:042][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-12.07.19:042][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-12.07.19:094][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-12.07.19:114][561]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.29-12.07.26:146][962]Cmd: SELECT NONE
+[2018.11.29-12.07.30:632][223]Cmd: SELECT NONE
+[2018.11.29-12.07.30:849][235]Cmd: SELECT NONE
+[2018.11.29-12.07.31:013][244]Cmd: SELECT NONE
+[2018.11.29-12.07.31:192][254]Cmd: SELECT NONE
+[2018.11.29-12.07.31:370][264]Cmd: SELECT NONE
+[2018.11.29-12.07.31:566][275]Cmd: SELECT NONE
+[2018.11.29-12.07.31:735][284]Cmd: SELECT NONE
+[2018.11.29-12.07.32:327][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-12.07.34:592][453]Cmd: SELECT NONE
+[2018.11.29-12.07.39:440][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround_LOW" FILE="../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.29-12.07.39:490][736]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] InputAction Event references unknown Action 'Quit' for  InputAction Quit
+[2018.11.29-12.07.39:491][736]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] [2239,12] Compile of PersistentLevel.BattleGround_LOW successful, but with 1 Warning(s) [in 3 ms] (/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW)
+[2018.11.29-12.07.39:680][736]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 32X32)
+[2018.11.29-12.07.39:681][736]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 32X32)
+[2018.11.29-12.07.39:681][736]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 32X32)
+[2018.11.29-12.07.39:683][736]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2018.11.29-12.07.39:683][736]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 32X32)
+[2018.11.29-12.07.39:684][736]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 32X32)
+[2018.11.29-12.07.39:685][736]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 32X32)
+[2018.11.29-12.07.39:686][736]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 32X32)
+[2018.11.29-12.07.39:687][736]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 32X32)
+[2018.11.29-12.07.39:688][736]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 32X32)
+[2018.11.29-12.07.39:688][736]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 32X32)
+[2018.11.29-12.07.39:916][736]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/BattleGround_LOW4D2BB49B412C6676D73DC1B5AA5C2D34.tmp' to '../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW.umap'
+[2018.11.29-12.07.44:564][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround_LOW" FILE="../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.29-12.07.44:603][  3]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] InputAction Event references unknown Action 'Quit' for  InputAction Quit
+[2018.11.29-12.07.44:604][  3]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] [2244,23] Compile of PersistentLevel.BattleGround_LOW successful, but with 1 Warning(s) [in 2 ms] (/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW)
+[2018.11.29-12.07.45:019][  3]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/BattleGround_LOW04EB10414322EA886AB53A949B841440.tmp' to '../../../../../BattleTank/Battle_Tank/Content/BattleGround_LOW.umap'
+[2018.11.29-12.07.50:334][ 89]LogSlate: Window 'Save Content' being destroyed
+[2018.11.29-12.07.50:376][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2018.11.29-12.07.50:408][ 89]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Tank_BPECE696D6435B855B7F5A2FA1650BF5FD.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2018.11.29-12.07.50:414][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_fbx_Barrel" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/tank_fbx_Barrel.uasset" SILENT=true
+[2018.11.29-12.07.50:426][ 89]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_fbx_BarrelCF55082445A5C059FA0882B6D88B9AFC.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/tank_fbx_Barrel.uasset'
+[2018.11.29-12.07.50:442][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_fbx_Body" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/tank_fbx_Body.uasset" SILENT=true
+[2018.11.29-12.07.50:456][ 89]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_fbx_Body9C5917344CA59FEB41966FA47F7F4828.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/tank_fbx_Body.uasset'
+[2018.11.29-12.07.50:470][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_fbx_Track" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/tank_fbx_Track.uasset" SILENT=true
+[2018.11.29-12.07.50:483][ 89]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_fbx_TrackA32567174403ED69215FA69429B2853A.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/tank_fbx_Track.uasset'
+[2018.11.29-12.07.50:499][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_green" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/tank_green.uasset" SILENT=true
+[2018.11.29-12.07.50:512][ 89]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_green9547951F412ED93222CD988C885A7F62.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/tank_green.uasset'
+[2018.11.29-12.07.50:523][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_green_001" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/tank_green_001.uasset" SILENT=true
+[2018.11.29-12.07.50:533][ 89]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_green_0010EEF4BA74AD44E9BDD7B6B970FC1D4E7.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/tank_green_001.uasset'
+[2018.11.29-12.07.50:545][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/tank_green_002" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/tank_green_002.uasset" SILENT=true
+[2018.11.29-12.07.50:555][ 89]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/tank_green_002F6670D3148427E7494D594B753DECD7A.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/tank_green_002.uasset'
+[2018.11.29-12.07.50:567][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/track_001" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/track_001.uasset" SILENT=true
+[2018.11.29-12.07.50:577][ 89]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/track_001ED97C19441090A48549B9D898766179B.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/track_001.uasset'
+[2018.11.29-12.07.50:960][ 89]LogSlate: Window 'Battle_Tank - Unreal Editor' being destroyed
+[2018.11.29-12.07.51:320][ 90]Cmd: QUIT_EDITOR
+[2018.11.29-12.07.51:725][ 90]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.29-12.07.51:742][ 90]LogExit: Preparing to exit.
+[2018.11.29-12.07.52:844][ 90]LogDirectoryWatcher: A directory notification failed for 'D:/BattleTank/Battle_Tank/Content/', and we were unable to create a new request.
+[2018.11.29-12.07.52:906][ 90]LogExit: Editor shut down
+[2018.11.29-12.07.52:907][ 90]LogExit: Transaction tracking system shut down
+[2018.11.29-12.07.53:225][ 90]LogExit: Object subsystem successfully closed.
+[2018.11.29-12.07.53:249][ 90]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.29-12.07.53:260][ 90]LogD3D11RHI: Shutdown
+[2018.11.29-12.07.53:260][ 90]LogD3D11RHI: CleanupD3DDevice
+[2018.11.29-12.07.53:266][ 90]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.29-12.07.53:288][ 90]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (636)
+[2018.11.29-12.07.53:288][ 90]LogModuleManager: Shutting down and abandoning module BlueprintGraph (634)
+[2018.11.29-12.07.53:288][ 90]LogModuleManager: Shutting down and abandoning module MeshBuilder (632)
+[2018.11.29-12.07.53:288][ 90]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2018.11.29-12.07.53:288][ 90]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2018.11.29-12.07.53:299][ 90]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (626)
+[2018.11.29-12.07.53:299][ 90]LogModuleManager: Shutting down and abandoning module SceneOutliner (624)
+[2018.11.29-12.07.53:299][ 90]LogModuleManager: Shutting down and abandoning module AddContentDialog (622)
+[2018.11.29-12.07.53:299][ 90]LogModuleManager: Shutting down and abandoning module WidgetCarousel (621)
+[2018.11.29-12.07.53:299][ 90]LogModuleManager: Shutting down and abandoning module EditorWidgets (618)
+[2018.11.29-12.07.53:299][ 90]LogModuleManager: Shutting down and abandoning module CollectionManager (616)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (614)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module StatsViewer (612)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module FoliageEdit (610)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module LandscapeEditor (608)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module MeshPaintMode (606)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (604)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module ActorPickerMode (602)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module GeometryMode (600)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module TextureAlignMode (598)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module BspMode (596)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (594)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (592)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module AutomationWorker (590)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (588)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (586)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (584)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module PlacementMode (583)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module MaterialEditor (582)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (578)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (576)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (574)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (572)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module WebMMedia (570)
+[2018.11.29-12.07.53:300][ 90]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (568)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (566)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module SequenceRecorder (565)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (562)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (560)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (558)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (556)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (554)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (552)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (550)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (548)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (546)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (544)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module CharacterAI (542)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module SmartSnapping (540)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module SessionServices (538)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module ViewportSnapping (536)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module ViewportInteraction (534)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module ClothPainter (532)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (531)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module LogVisualizer (528)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module IntroTutorials (526)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (525)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (522)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (520)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (518)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (516)
+[2018.11.29-12.07.53:301][ 90]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (515)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (512)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (510)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (508)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (506)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (504)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module InputBindingEditor (502)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module MergeActors (500)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (498)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module LocalizationService (497)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module HardwareTargeting (494)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (492)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module UndoHistory (490)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module XmlParser (488)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module Blutility (486)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (484)
+[2018.11.29-12.07.53:391][ 90]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (483)
+[2018.11.29-12.07.53:392][ 90]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (480)
+[2018.11.29-12.07.53:392][ 90]LogModuleManager: Shutting down and abandoning module SettingsEditor (478)
+[2018.11.29-12.07.53:392][ 90]LogModuleManager: Shutting down and abandoning module ProjectLauncher (476)
+[2018.11.29-12.07.53:392][ 90]LogModuleManager: Shutting down and abandoning module SessionFrontend (474)
+[2018.11.29-12.07.53:392][ 90]LogModuleManager: Shutting down and abandoning module ProfilerClient (472)
+[2018.11.29-12.07.53:392][ 90]LogModuleManager: Shutting down and abandoning module DeviceManager (470)
+[2018.11.29-12.07.53:392][ 90]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (469)
+[2018.11.29-12.07.53:446][ 90]LogModuleManager: Shutting down and abandoning module AutomationController (466)
+[2018.11.29-12.07.53:446][ 90]LogModuleManager: Shutting down and abandoning module AutomationWindow (464)
+[2018.11.29-12.07.53:446][ 90]LogModuleManager: Shutting down and abandoning module Layers (462)
+[2018.11.29-12.07.53:446][ 90]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (460)
+[2018.11.29-12.07.53:446][ 90]LogModuleManager: Shutting down and abandoning module DetailCustomizations (458)
+[2018.11.29-12.07.53:446][ 90]LogModuleManager: Shutting down and abandoning module PackagesDialog (456)
+[2018.11.29-12.07.53:446][ 90]LogModuleManager: Shutting down and abandoning module Persona (454)
+[2018.11.29-12.07.53:446][ 90]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (453)
+[2018.11.29-12.07.53:446][ 90]LogModuleManager: Shutting down and abandoning module AnimGraph (451)
+[2018.11.29-12.07.53:446][ 90]LogModuleManager: Shutting down and abandoning module Kismet (448)
+[2018.11.29-12.07.53:452][ 90]LogModuleManager: Shutting down and abandoning module GraphEditor (446)
+[2018.11.29-12.07.53:452][ 90]LogModuleManager: Shutting down and abandoning module ClassViewer (444)
+[2018.11.29-12.07.53:453][ 90]LogModuleManager: Shutting down and abandoning module Toolbox (442)
+[2018.11.29-12.07.53:453][ 90]LogModuleManager: Shutting down and abandoning module DesktopPlatform (441)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.11.29-12.07.53:454][ 90]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (404)
+[2018.11.29-12.07.53:459][ 90]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.11.29-12.07.53:577][ 90]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.11.29-12.07.53:577][ 90]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.11.29-12.07.53:577][ 90]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.11.29-12.07.53:577][ 90]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.11.29-12.07.53:577][ 90]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.11.29-12.07.53:577][ 90]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.11.29-12.07.53:578][ 90]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.11.29-12.07.53:578][ 90]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.11.29-12.07.53:578][ 90]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.11.29-12.07.53:578][ 90]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.11.29-12.07.53:578][ 90]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.11.29-12.07.53:578][ 90]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.11.29-12.07.53:578][ 90]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.11.29-12.07.53:578][ 90]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.11.29-12.07.53:578][ 90]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2018.11.29-12.07.53:578][ 90]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2018.11.29-12.07.53:578][ 90]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.11.29-12.07.53:582][ 90]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module MeshPaint (299)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module Battle_Tank (296)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.29-12.07.53:583][ 90]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.29-12.07.53:684][ 90]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.29-12.07.53:784][ 90]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.29-12.07.53:784][ 90]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.29-12.07.53:784][ 90]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.29-12.07.53:784][ 90]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.29-12.07.53:784][ 90]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.29-12.07.53:784][ 90]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.29-12.07.53:784][ 90]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.29-12.07.53:785][ 90]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.29-12.07.53:785][ 90]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.29-12.07.53:786][ 90]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.29-12.07.53:786][ 90]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.29-12.07.53:786][ 90]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.29-12.07.53:788][ 90]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.29-12.07.53:788][ 90]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.29-12.07.53:788][ 90]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.29-12.07.53:788][ 90]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.29-12.07.53:788][ 90]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.29-12.07.53:788][ 90]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.11.29-12.07.53:788][ 90]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.11.29-12.07.53:793][ 90]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.11.29-12.07.53:800][ 90]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.11.29-12.07.53:801][ 90]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.11.29-12.07.53:801][ 90]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.11.29-12.07.53:801][ 90]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.11.29-12.07.53:804][ 90]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.11.29-12.07.53:805][ 90]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.11.29-12.07.53:805][ 90]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.11.29-12.07.53:805][ 90]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.11.29-12.07.53:805][ 90]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.11.29-12.07.53:819][ 90]LogDerivedDataCache: Shutdown
+[2018.11.29-12.07.53:819][ 90]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.11.29-12.07.53:820][ 90]LogXGEController: Cleaning working directory: C:/Users/Guillaume/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.11.29-12.07.53:820][ 90]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.11.29-12.07.53:825][ 90]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.11.29-12.07.53:825][ 90]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.11.29-12.07.53:825][ 90]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.11.29-12.07.53:825][ 90]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.11.29-12.07.53:825][ 90]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.11.29-12.07.53:827][ 90]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.11.29-12.07.53:828][ 90]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.11.29-12.07.53:829][ 90]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.11.29-12.07.53:830][ 90]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.11.29-12.07.53:846][ 90]LogHMD: Freeing OpenVRDLLHandle.
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.11.29-12.07.53:846][ 90]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.11.29-12.07.53:847][ 90]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.11.29-12.07.53:847][ 90]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.11.29-12.07.53:847][ 90]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.11.29-12.07.53:847][ 90]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.11.29-12.07.53:847][ 90]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.11.29-12.07.53:853][ 90]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.11.29-12.07.53:853][ 90]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.29-12.07.53:854][ 90]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B77EF7D6E-44D5-DD57-6AFA-C49E08E993CE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=3273da2448b590884d71b0bcd07f430e%7C0bac064dae134004b2eca3b124c0f206%7C73a49df6-6464-4431-a66d-2ebe88192f37&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.29-12.07.53:864][ 90]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.11.29-12.07.53:866][ 90]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.11.29-12.07.53:866][ 90]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.11.29-12.07.53:866][ 90]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.11.29-12.07.53:866][ 90]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.11.29-12.07.53:866][ 90]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.11.29-12.07.53:866][ 90]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.11.29-12.07.53:866][ 90]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.11.29-12.07.53:866][ 90]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.29-12.07.53:866][ 90]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.11.29-12.07.53:866][ 90]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.11.29-12.07.53:866][ 90]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.29-12.07.53:867][ 90]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.29-12.07.53:867][ 90]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.29-12.07.53:867][ 90]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.29-12.07.53:867][ 90]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.29-12.07.53:867][ 90]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.29-12.07.53:867][ 90]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.29-12.07.53:867][ 90]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.29-12.07.53:867][ 90]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.29-12.07.53:867][ 90]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.29-12.07.53:867][ 90]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.29-12.07.53:867][ 90]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.29-12.07.53:867][ 90]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.29-12.07.53:868][ 90]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.29-12.07.53:868][ 90]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.29-12.07.53:868][ 90]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.29-12.07.53:868][ 90]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.29-12.07.53:868][ 90]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.29-12.07.53:874][ 90]LogExit: Exiting.
+[2018.11.29-12.07.53:899][ 90]Log file closed, 11/29/18 13:07:53
