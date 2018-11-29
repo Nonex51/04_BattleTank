@@ -1172,3 +1172,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2018.11.29-13.43.36:646][861]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
 [2018.11.29-13.43.36:688][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2018.11.29-13.43.36:708][862]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.11.29-14.11.29:009][501]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-14.11.29:031][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-14.11.29:032][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-14.11.29:032][501]PIE: New page: PIE session: BattleGround_LOW (29 nov. 2018 16:11:29)
+[2018.11.29-14.11.29:035][501]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround_LOW
+[2018.11.29-14.11.29:063][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028276s)
+[2018.11.29-14.11.29:065][501]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-14.11.29:066][501]LogPlayLevel: PIE: World Init took: (0.002214s)
+[2018.11.29-14.11.29:066][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround_LOW.BattleGround_LOW to /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW (0.031252s)
+[2018.11.29-14.11.29:115][501]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-14.11.29:171][501]LogInit: FAudioDevice initialized.
+[2018.11.29-14.11.29:209][501]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2018.11.29-14.11.29:213][501]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW up for play (max tick rate 60) at 2018.11.29-15.11.29
+[2018.11.29-14.11.29:214][501]LogWorld: Bringing up level for play took: 0.003752
+[2018.11.29-14.11.29:228][501]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround_LOW 0,978
+[2018.11.29-14.11.29:228][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-14.11.34:233][800]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-14.11.34:235][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-14.11.34:276][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-14.11.34:276][800]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-14.11.34:316][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-14.11.34:348][801]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.11.29-14.12.19:923][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
