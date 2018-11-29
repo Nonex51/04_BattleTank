@@ -822,3 +822,684 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2018.11.29-21.28.52:003][606]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Player_UI5D044FFC4685636A7F0150BB8B05610A.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Player_UI.uasset'
 [2018.11.29-21.28.52:032][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TankPlayerController_BP" FILE="../../../../../BattleTank/Battle_Tank/Content/TankPlayerController_BP.uasset" SILENT=true
 [2018.11.29-21.28.52:131][606]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/TankPlayerController_BP92483E124B75250EECD997A799DC8CAB.tmp' to '../../../../../BattleTank/Battle_Tank/Content/TankPlayerController_BP.uasset'
+[2018.11.29-21.31.54:545][688]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.29-21.32.05:142][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-21.32.05:946][125]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.32.05:987][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.32.05:988][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.32.05:988][125]PIE: New page: PIE session: BattleGround_LOW (29 nov. 2018 23:32:05)
+[2018.11.29-21.32.05:989][125]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround_LOW
+[2018.11.29-21.32.06:026][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037071s)
+[2018.11.29-21.32.06:027][125]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-21.32.06:028][125]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2018.11.29-21.32.06:028][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround_LOW.BattleGround_LOW to /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW (0.038996s)
+[2018.11.29-21.32.06:089][125]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.32.06:175][125]LogInit: FAudioDevice initialized.
+[2018.11.29-21.32.06:175][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-21.32.06:213][125]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2018.11.29-21.32.06:218][125]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW up for play (max tick rate 60) at 2018.11.29-22.32.06
+[2018.11.29-21.32.06:220][125]LogWorld: Bringing up level for play took: 0.005461
+[2018.11.29-21.32.06:238][125]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround_LOW -0,226
+[2018.11.29-21.32.06:238][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.32.08:143][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.32.08:144][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.32.08:180][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.32.08:180][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.32.08:232][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.32.08:259][233]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.11.29-21.32.09:901][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-21.32.10:562][353]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.32.10:597][353]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.32.10:598][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.32.10:598][353]PIE: New page: PIE session: BattleGround_LOW (29 nov. 2018 23:32:10)
+[2018.11.29-21.32.10:599][353]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround_LOW
+[2018.11.29-21.32.10:634][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035564s)
+[2018.11.29-21.32.10:635][353]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-21.32.10:635][353]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2018.11.29-21.32.10:636][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround_LOW.BattleGround_LOW to /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW (0.037543s)
+[2018.11.29-21.32.10:688][353]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.32.10:757][353]LogInit: FAudioDevice initialized.
+[2018.11.29-21.32.10:757][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.29-21.32.10:790][353]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2018.11.29-21.32.10:794][353]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW up for play (max tick rate 60) at 2018.11.29-22.32.10
+[2018.11.29-21.32.10:795][353]LogWorld: Bringing up level for play took: 0.004016
+[2018.11.29-21.32.10:809][353]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround_LOW 0,346
+[2018.11.29-21.32.10:810][353]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.32.24:668][175]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.32.24:670][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.32.24:709][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.32.24:709][175]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.32.24:768][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.32.24:795][176]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.11.29-21.32.29:755][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-21.32.37:985][937]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Tank/Tank_BP.Tank_BP
+[2018.11.29-21.32.52:264][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-21.33.00:996][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-21.33.01:063][145]BlueprintLog: New page: Compile Tank_BP
+[2018.11.29-21.33.02:608][171]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.33.02:646][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.33.02:647][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.33.02:647][171]PIE: New page: PIE session: BattleGround_LOW (29 nov. 2018 23:33:02)
+[2018.11.29-21.33.02:648][171]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround_LOW
+[2018.11.29-21.33.02:682][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034377s)
+[2018.11.29-21.33.02:683][171]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-21.33.02:684][171]LogPlayLevel: PIE: World Init took: (0.001633s)
+[2018.11.29-21.33.02:684][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround_LOW.BattleGround_LOW to /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW (0.036983s)
+[2018.11.29-21.33.02:740][171]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.33.02:810][171]LogInit: FAudioDevice initialized.
+[2018.11.29-21.33.02:818][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.33.02:852][171]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2018.11.29-21.33.02:857][171]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW up for play (max tick rate 60) at 2018.11.29-22.33.02
+[2018.11.29-21.33.02:858][171]LogWorld: Bringing up level for play took: 0.004499
+[2018.11.29-21.33.02:875][171]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround_LOW 0,412
+[2018.11.29-21.33.02:876][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.33.08:592][471]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-21.33.08:596][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.33.08:646][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.33.08:646][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.33.09:087][472]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.11.29-21.33.24:823][392]BlueprintLog: New page: Compile Player_UI
+[2018.11.29-21.33.25:462][403]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.33.25:546][403]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.33.25:549][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.33.25:550][403]PIE: New page: PIE session: BattleGround_LOW (29 nov. 2018 23:33:25)
+[2018.11.29-21.33.25:551][403]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround_LOW
+[2018.11.29-21.33.25:650][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097804s)
+[2018.11.29-21.33.25:655][403]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-21.33.25:656][403]LogPlayLevel: PIE: World Init took: (0.002173s)
+[2018.11.29-21.33.25:657][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround_LOW.BattleGround_LOW to /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW (0.105225s)
+[2018.11.29-21.33.25:789][403]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.33.26:022][403]LogInit: FAudioDevice initialized.
+[2018.11.29-21.33.26:040][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.33.26:082][403]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2018.11.29-21.33.26:095][403]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW up for play (max tick rate 60) at 2018.11.29-22.33.26
+[2018.11.29-21.33.26:097][403]LogWorld: Bringing up level for play took: 0.012086
+[2018.11.29-21.33.26:124][403]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround_LOW -0,339
+[2018.11.29-21.33.26:126][403]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.33.35:924][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.33.35:925][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.33.35:959][879]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-21.33.36:002][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.33.36:003][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.33.36:151][880]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.11.29-21.33.51:058][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-21.33.51:124][724]BlueprintLog: New page: Compile Tank_BP
+[2018.11.29-21.33.52:148][729]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.33.52:248][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.33.52:251][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.33.52:251][729]PIE: New page: PIE session: BattleGround_LOW (29 nov. 2018 23:33:52)
+[2018.11.29-21.33.52:252][729]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround_LOW
+[2018.11.29-21.33.52:352][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.099102s)
+[2018.11.29-21.33.52:355][729]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-21.33.52:357][729]LogPlayLevel: PIE: World Init took: (0.003560s)
+[2018.11.29-21.33.52:357][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround_LOW.BattleGround_LOW to /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW (0.105268s)
+[2018.11.29-21.33.52:494][729]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.33.52:727][729]LogInit: FAudioDevice initialized.
+[2018.11.29-21.33.52:743][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.33.52:789][729]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2018.11.29-21.33.52:816][729]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW up for play (max tick rate 60) at 2018.11.29-22.33.52
+[2018.11.29-21.33.52:818][729]LogWorld: Bringing up level for play took: 0.026287
+[2018.11.29-21.33.52:844][729]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround_LOW 0,381
+[2018.11.29-21.33.52:846][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.33.56:763][913]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-21.33.56:768][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.33.56:810][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.33.56:810][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.33.57:439][914]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.11.29-21.34.06:592][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-21.34.06:625][445]BlueprintLog: New page: Compile Tank_BP
+[2018.11.29-21.34.07:575][447]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.34.07:672][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.34.07:674][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.34.07:675][447]PIE: New page: PIE session: BattleGround_LOW (29 nov. 2018 23:34:07)
+[2018.11.29-21.34.07:676][447]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround_LOW
+[2018.11.29-21.34.07:780][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104926s)
+[2018.11.29-21.34.07:786][447]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-21.34.07:788][447]LogPlayLevel: PIE: World Init took: (0.003936s)
+[2018.11.29-21.34.07:789][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround_LOW.BattleGround_LOW to /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW (0.114303s)
+[2018.11.29-21.34.07:924][447]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.34.08:137][447]LogInit: FAudioDevice initialized.
+[2018.11.29-21.34.08:154][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.34.08:198][447]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2018.11.29-21.34.08:210][447]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW up for play (max tick rate 60) at 2018.11.29-22.34.08
+[2018.11.29-21.34.08:212][447]LogWorld: Bringing up level for play took: 0.011776
+[2018.11.29-21.34.08:241][447]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround_LOW -0,222
+[2018.11.29-21.34.08:243][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.34.10:856][558]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-21.34.10:860][558]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.34.10:907][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.34.10:907][558]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.34.11:543][559]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.11.29-21.34.25:562][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-21.34.33:808][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-21.34.40:491][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-21.34.40:557][223]BlueprintLog: New page: Compile Tank_BP
+[2018.11.29-21.34.41:625][227]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.34.41:725][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.34.41:727][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.34.41:728][227]PIE: New page: PIE session: BattleGround_LOW (29 nov. 2018 23:34:41)
+[2018.11.29-21.34.41:728][227]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround_LOW
+[2018.11.29-21.34.41:840][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111040s)
+[2018.11.29-21.34.41:846][227]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-21.34.41:848][227]LogPlayLevel: PIE: World Init took: (0.005579s)
+[2018.11.29-21.34.41:848][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround_LOW.BattleGround_LOW to /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW (0.119276s)
+[2018.11.29-21.34.41:985][227]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.34.42:221][227]LogInit: FAudioDevice initialized.
+[2018.11.29-21.34.42:237][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.34.42:282][227]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2018.11.29-21.34.42:302][227]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW up for play (max tick rate 60) at 2018.11.29-22.34.42
+[2018.11.29-21.34.42:304][227]LogWorld: Bringing up level for play took: 0.018482
+[2018.11.29-21.34.42:330][227]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround_LOW -0,133
+[2018.11.29-21.34.42:332][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.34.50:619][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-21.34.50:719][637]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-21.34.50:728][637]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.34.50:853][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.34.50:854][637]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.34.51:237][638]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.11.29-21.36.01:440][454]BlueprintLog: New page: Compile Player_UI
+[2018.11.29-21.36.02:285][497]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.36.02:313][497]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.36.02:314][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.36.02:314][497]PIE: New page: PIE session: BattleGround_LOW (29 nov. 2018 23:36:02)
+[2018.11.29-21.36.02:315][497]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround_LOW
+[2018.11.29-21.36.02:342][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027537s)
+[2018.11.29-21.36.02:343][497]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-21.36.02:344][497]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2018.11.29-21.36.02:344][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround_LOW.BattleGround_LOW to /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW (0.029093s)
+[2018.11.29-21.36.02:389][497]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.36.02:445][497]LogInit: FAudioDevice initialized.
+[2018.11.29-21.36.02:449][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.36.02:485][497]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2018.11.29-21.36.02:491][497]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW up for play (max tick rate 60) at 2018.11.29-22.36.02
+[2018.11.29-21.36.02:492][497]LogWorld: Bringing up level for play took: 0.005820
+[2018.11.29-21.36.02:510][497]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround_LOW 0,047
+[2018.11.29-21.36.02:510][497]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.36.06:588][700]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-21.36.06:597][700]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.36.06:706][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.36.06:707][700]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.36.06:938][701]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.11.29-21.36.25:265][619]BlueprintLog: New page: Compile Player_UI
+[2018.11.29-21.36.26:007][656]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.36.26:035][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.36.26:036][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.36.26:036][656]PIE: New page: PIE session: BattleGround_LOW (29 nov. 2018 23:36:26)
+[2018.11.29-21.36.26:036][656]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround_LOW
+[2018.11.29-21.36.26:064][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027905s)
+[2018.11.29-21.36.26:065][656]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-21.36.26:065][656]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2018.11.29-21.36.26:066][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround_LOW.BattleGround_LOW to /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW (0.029505s)
+[2018.11.29-21.36.26:112][656]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.36.26:169][656]LogInit: FAudioDevice initialized.
+[2018.11.29-21.36.26:175][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.36.26:210][656]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2018.11.29-21.36.26:214][656]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW up for play (max tick rate 60) at 2018.11.29-22.36.26
+[2018.11.29-21.36.26:215][656]LogWorld: Bringing up level for play took: 0.004015
+[2018.11.29-21.36.26:231][656]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround_LOW -0,233
+[2018.11.29-21.36.26:231][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.36.38:165][317]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.36.38:166][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.36.38:197][317]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-21.36.38:236][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.36.38:236][317]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.36.38:365][318]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.11.29-21.36.47:163][843]BlueprintLog: New page: Compile Player_UI
+[2018.11.29-21.36.47:869][862]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.36.47:953][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.36.47:955][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.36.47:956][862]PIE: New page: PIE session: BattleGround_LOW (29 nov. 2018 23:36:47)
+[2018.11.29-21.36.47:957][862]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround_LOW
+[2018.11.29-21.36.48:055][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098570s)
+[2018.11.29-21.36.48:059][862]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-21.36.48:061][862]LogPlayLevel: PIE: World Init took: (0.004403s)
+[2018.11.29-21.36.48:062][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround_LOW.BattleGround_LOW to /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW (0.105142s)
+[2018.11.29-21.36.48:199][862]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.36.48:384][862]LogInit: FAudioDevice initialized.
+[2018.11.29-21.36.48:406][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.36.48:453][862]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2018.11.29-21.36.48:474][862]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround_LOW.BattleGround_LOW up for play (max tick rate 60) at 2018.11.29-22.36.48
+[2018.11.29-21.36.48:478][862]LogWorld: Bringing up level for play took: 0.020834
+[2018.11.29-21.36.48:503][862]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround_LOW 0,04
+[2018.11.29-21.36.48:505][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.36.52:954][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.36.52:963][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.36.53:002][ 81]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-21.36.53:051][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.36.53:051][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW' with GeneratedClass '/Game/BattleGround_LOW.BattleGround_LOW_C' with ClassGeneratedBy '/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW'
+[2018.11.29-21.36.53:215][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.11.29-21.40.00:893][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround_LOW" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/BattleGround_LOW_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.11.29-21.40.00:909][907]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] InputAction Event references unknown Action 'Quit' for  InputAction Quit
+[2018.11.29-21.40.00:913][907]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] [1762,68] Compile of PersistentLevel.BattleGround_LOW successful, but with 1 Warning(s) [in 5 ms] (/Game/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW)
+[2018.11.29-21.40.01:339][907]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/BattleGround_LOW_Auto21FECAAEA43FF1E4B8637118952099056.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/BattleGround_LOW_Auto2.umap'
+[2018.11.29-21.40.01:342][907]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BattleGround_LOW' took 0.495
+[2018.11.29-21.40.01:342][907]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.495
+[2018.11.29-21.40.01:346][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/Tank_BP] ([1] browsable assets)...
+[2018.11.29-21.40.01:600][907]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tank/Tank_BP.Tank_BP]
+[2018.11.29-21.40.01:600][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/Tank_BP]
+[2018.11.29-21.40.01:601][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/Tank_BP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-21.40.01:666][907]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Tank_BP_Auto2FDB6686B40D13CA0D547EEAC88000762.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Tank/Tank_BP_Auto2.uasset'
+[2018.11.29-21.40.01:668][907]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_UI] ([1] browsable assets)...
+[2018.11.29-21.40.01:668][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_UI]
+[2018.11.29-21.40.01:668][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_UI" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Player_UI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-21.40.01:692][907]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Player_UI_Auto20A77A05A4A62D1A5A571A6B6676D71D1.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Player_UI_Auto2.uasset'
+[2018.11.29-21.40.01:693][907]LogFileHelpers: Auto-saving content packages took 0.348
+[2018.11.29-21.40.37:920][287]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] InputAction Event references unknown Action 'Quit' for  InputAction Quit
+[2018.11.29-21.40.37:921][287]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] [1799,69] Compile of PersistentLevel.BattleGround_LOW successful, but with 1 Warning(s) [in 3 ms] (/Game/Levels/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW)
+[2018.11.29-21.40.38:171][287]LogMetaData: Removing '/Game/Levels/BattleGround_LOW.BattleGround_LOW_C' ref from Metadata '/Game/BattleGround_LOW.PackageMetaData'
+[2018.11.29-21.40.38:171][287]LogMetaData: Removing '/Game/Levels/BattleGround_LOW.SKEL_BattleGround_LOW_C' ref from Metadata '/Game/BattleGround_LOW.PackageMetaData'
+[2018.11.29-21.40.38:213][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BattleGround_LOW_BuiltData" FILE="../../../../../BattleTank/Battle_Tank/Content/Levels/BattleGround_LOW_BuiltData.uasset" SILENT=true
+[2018.11.29-21.40.38:333][287]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/BattleGround_LOW_BuiltData7DA39E8E4CC351F4146DDF9B0C6AA3FB.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Levels/BattleGround_LOW_BuiltData.uasset'
+[2018.11.29-21.40.38:339][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BattleGround_LOW" FILE="../../../../../BattleTank/Battle_Tank/Content/Levels/BattleGround_LOW.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.29-21.40.38:414][287]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] InputAction Event references unknown Action 'Quit' for  InputAction Quit
+[2018.11.29-21.40.38:416][287]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] [1800,18] Compile of PersistentLevel.BattleGround_LOW successful, but with 1 Warning(s) [in 6 ms] (/Game/Levels/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW)
+[2018.11.29-21.40.38:932][287]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/BattleGround_LOW882B1665478427158B3BEE9DBE48BD06.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Levels/BattleGround_LOW.umap'
+[2018.11.29-21.40.38:973][287]LogFileHelpers: Saving map 'BattleGround_LOW' took 0.635
+[2018.11.29-21.40.57:872][199]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/M.M
+[2018.11.29-21.40.59:440][199]LogSlate: Window 'Save Content' being destroyed
+[2018.11.29-21.41.08:664][627]LogMetaData: Removing '/Game/Levels/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/Levels/M.PackageMetaData'
+[2018.11.29-21.41.08:664][627]LogMetaData: Removing '/Game/Levels/MainMenu.MainMenu_C' ref from Metadata '/Game/Levels/M.PackageMetaData'
+[2018.11.29-21.41.08:665][627]LogMetaData: Removing '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Levels/M.PackageMetaData'
+[2018.11.29-21.41.08:665][627]LogMetaData: Removing '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Levels/M.PackageMetaData'
+[2018.11.29-21.41.08:700][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../BattleTank/Battle_Tank/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.29-21.41.09:267][627]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/MainMenuAA606CA440313BD2F9F330AEA79E28BE.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Levels/MainMenu.umap'
+[2018.11.29-21.41.09:278][627]LogFileHelpers: Saving map 'MainMenu' took 0.578
+[2018.11.29-21.41.29:914][525]LogMetaData: Removing '/Game/Tank/TankPlayerController_BP.TankPlayerController_BP_C' ref from Metadata '/Game/TankPlayerController_BP.PackageMetaData'
+[2018.11.29-21.41.29:914][525]LogMetaData: Removing '/Game/Tank/TankPlayerController_BP.SKEL_TankPlayerController_BP_C' ref from Metadata '/Game/TankPlayerController_BP.PackageMetaData'
+[2018.11.29-21.41.29:915][525]LogMetaData: Removing '/Game/Tank/TankPlayerController_BP.TankPlayerController_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TankPlayerController_BP.PackageMetaData'
+[2018.11.29-21.41.29:915][525]LogMetaData: Removing '/Game/Tank/TankPlayerController_BP.TankPlayerController_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TankPlayerController_BP.PackageMetaData'
+[2018.11.29-21.41.29:916][525]LogMetaData: Removing '/Game/Tank/TankPlayerController_BP.SKEL_TankPlayerController_BP_C:UserConstructionScript' ref from Metadata '/Game/TankPlayerController_BP.PackageMetaData'
+[2018.11.29-21.41.29:916][525]LogMetaData: Removing '/Game/Tank/TankPlayerController_BP.SKEL_TankPlayerController_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/TankPlayerController_BP.PackageMetaData'
+[2018.11.29-21.41.29:917][525]LogMetaData: Removing '/Game/Tank/TankPlayerController_BP.TankPlayerController_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/TankPlayerController_BP.PackageMetaData'
+[2018.11.29-21.41.29:917][525]LogMetaData: Removing '/Game/Tank/TankPlayerController_BP.TankPlayerController_BP_C:UserConstructionScript' ref from Metadata '/Game/TankPlayerController_BP.PackageMetaData'
+[2018.11.29-21.41.29:947][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/TankPlayerController_BP" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/TankPlayerController_BP.uasset" SILENT=true
+[2018.11.29-21.41.29:971][525]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/TankPlayerController_BP3F77EBBA48BB673DDABEC3BC3292886A.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/TankPlayerController_BP.uasset'
+[2018.11.29-21.41.30:579][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BattleTankGameMode_BP" FILE="../../../../../BattleTank/Battle_Tank/Content/Blueprints/BattleTankGameMode_BP.uasset" SILENT=true
+[2018.11.29-21.41.30:652][525]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/BattleTankGameMode_BPBE65B6844606FAE1076D67990293ED84.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Blueprints/BattleTankGameMode_BP.uasset'
+[2018.11.29-21.42.28:642][246]BlueprintLog: New page: Compile Tank_BP
+[2018.11.29-21.42.33:512][497]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2018.11.29-21.42.36:439][497]LogSlate: Window 'Save Content' being destroyed
+[2018.11.29-21.42.36:448][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BattleGround_LOW" FILE="../../../../../BattleTank/Battle_Tank/Content/Levels/BattleGround_LOW.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.29-21.42.36:506][497]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] InputAction Event references unknown Action 'Quit' for  InputAction Quit
+[2018.11.29-21.42.36:507][497]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] [1918,27] Compile of PersistentLevel.BattleGround_LOW successful, but with 1 Warning(s) [in 3 ms] (/Game/Levels/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW)
+[2018.11.29-21.42.36:995][497]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/BattleGround_LOW36A391A4461D28013A28AA89E57ED183.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Levels/BattleGround_LOW.umap'
+[2018.11.29-21.42.37:040][497]LogFileHelpers: Saving map 'BattleGround_LOW' took 0.592
+[2018.11.29-21.42.37:040][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_UI" FILE="../../../../../BattleTank/Battle_Tank/Content/Player_UI.uasset" SILENT=true
+[2018.11.29-21.42.37:060][497]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Player_UIA585F4404D001D1C895F2EA3F4B3468C.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Player_UI.uasset'
+[2018.11.29-21.42.37:085][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2018.11.29-21.42.37:142][497]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Tank_BP8CA752F84C0B58916D6A629CC80F87F1.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/Tank_BP.uasset'
+[2018.11.29-21.42.37:237][497]Cmd: MAP LOAD FILE="../../../../../BattleTank/Battle_Tank/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.29-21.42.37:238][497]LightingResults: New page: Lighting Build
+[2018.11.29-21.42.37:238][497]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.11.29-21.42.37:240][497]MapCheck: New page: Map Check
+[2018.11.29-21.42.37:240][497]LightingResults: New page: Lighting Build
+[2018.11.29-21.42.37:390][497]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.29-21.42.37:391][497]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.29-21.42.37:515][497]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.29-21.42.37:515][497]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,134ms to complete.
+[2018.11.29-21.42.37:517][497]LogFileHelpers: Loading map 'MainMenu' took 0.369
+[2018.11.29-21.42.37:610][497]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] InputAction Event references unknown Action 'Quit' for  InputAction Quit
+[2018.11.29-21.42.37:612][497]LogBlueprint: Warning: [Compiler PersistentLevel.BattleGround_LOW] [1919,38] Compile of PersistentLevel.BattleGround_LOW successful, but with 1 Warning(s) [in 2 ms] (/Game/Levels/BattleGround_LOW.BattleGround_LOW:PersistentLevel.BattleGround_LOW)
+[2018.11.29-21.42.37:722][497]LogAIModule: Creating AISystem for world BattleGround_LOW
+[2018.11.29-21.47.02:274][997]LogMetaData: Removing '/Game/UI/Player_UI.SKEL_Player_UI_C' ref from Metadata '/Game/Player_UI.PackageMetaData'
+[2018.11.29-21.47.02:275][997]LogMetaData: Removing '/Game/UI/Player_UI.Player_UI_C' ref from Metadata '/Game/Player_UI.PackageMetaData'
+[2018.11.29-21.47.02:275][997]LogMetaData: Removing '/Game/UI/Player_UI.Player_UI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Player_UI.PackageMetaData'
+[2018.11.29-21.47.02:275][997]LogMetaData: Removing '/Game/UI/Player_UI.Player_UI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Player_UI.PackageMetaData'
+[2018.11.29-21.47.02:276][997]LogMetaData: Removing '/Game/UI/Player_UI.Player_UI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Player_UI.PackageMetaData'
+[2018.11.29-21.47.02:276][997]LogMetaData: Removing '/Game/UI/Player_UI.SKEL_Player_UI_C:PreConstruct' ref from Metadata '/Game/Player_UI.PackageMetaData'
+[2018.11.29-21.47.02:276][997]LogMetaData: Removing '/Game/UI/Player_UI.SKEL_Player_UI_C:Construct' ref from Metadata '/Game/Player_UI.PackageMetaData'
+[2018.11.29-21.47.02:276][997]LogMetaData: Removing '/Game/UI/Player_UI.SKEL_Player_UI_C:Tick' ref from Metadata '/Game/Player_UI.PackageMetaData'
+[2018.11.29-21.47.02:277][997]LogMetaData: Removing '/Game/UI/Player_UI.SKEL_Player_UI_C:Aim_Point' ref from Metadata '/Game/Player_UI.PackageMetaData'
+[2018.11.29-21.47.02:277][997]LogMetaData: Removing '/Game/UI/Player_UI.Player_UI_C:Aim_Point' ref from Metadata '/Game/Player_UI.PackageMetaData'
+[2018.11.29-21.47.02:301][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_UI" FILE="../../../../../BattleTank/Battle_Tank/Content/UI/Player_UI.uasset" SILENT=true
+[2018.11.29-21.47.02:319][997]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/Player_UI0C50AD3F4417A92F7AF321BD1D004BAF.tmp' to '../../../../../BattleTank/Battle_Tank/Content/UI/Player_UI.uasset'
+[2018.11.29-21.47.02:627][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/TankPlayerController_BP" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/TankPlayerController_BP.uasset" SILENT=true
+[2018.11.29-21.47.02:664][997]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/TankPlayerController_BP4145576A4241DEB751DE0DB0390F7CD9.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/TankPlayerController_BP.uasset'
+[2018.11.29-21.47.47:118][315]LogMetaData: Removing '/Game/UI/PlayerUI_BP.PlayerUI_BP_C' ref from Metadata '/Game/UI/Player_UI.PackageMetaData'
+[2018.11.29-21.47.47:118][315]LogMetaData: Removing '/Game/UI/PlayerUI_BP.SKEL_PlayerUI_BP_C' ref from Metadata '/Game/UI/Player_UI.PackageMetaData'
+[2018.11.29-21.47.47:119][315]LogMetaData: Removing '/Game/UI/PlayerUI_BP.PlayerUI_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Player_UI.PackageMetaData'
+[2018.11.29-21.47.47:119][315]LogMetaData: Removing '/Game/UI/PlayerUI_BP.PlayerUI_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/Player_UI.PackageMetaData'
+[2018.11.29-21.47.47:119][315]LogMetaData: Removing '/Game/UI/PlayerUI_BP.PlayerUI_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Player_UI.PackageMetaData'
+[2018.11.29-21.47.47:148][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlayerUI_BP" FILE="../../../../../BattleTank/Battle_Tank/Content/UI/PlayerUI_BP.uasset" SILENT=true
+[2018.11.29-21.47.47:167][315]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/PlayerUI_BPA51A5FB8416F70502D30CAA7540CB9D5.tmp' to '../../../../../BattleTank/Battle_Tank/Content/UI/PlayerUI_BP.uasset'
+[2018.11.29-21.47.47:596][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/TankPlayerController_BP" FILE="../../../../../BattleTank/Battle_Tank/Content/Tank/TankPlayerController_BP.uasset" SILENT=true
+[2018.11.29-21.47.47:620][315]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/TankPlayerController_BPAED375AE4D345A4293E8A1A6AF1B0FB6.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Tank/TankPlayerController_BP.uasset'
+[2018.11.29-21.48.18:939][644]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu_BP.MainMenu_BP
+[2018.11.29-21.48.56:394][892]BlueprintLog: New page: Compile MainMenu_BP
+[2018.11.29-21.49.08:224][423]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-21.49.14:610][779]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2018.11.29-21.49.31:857][292]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.29-21.50.17:113][894]BlueprintLog: New page: Compile MainMenu
+[2018.11.29-21.50.21:727][148]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.50.21:772][148]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.50.21:773][148]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.29-21.50.21:775][148]LogPlayLevel: [PlayLevel] Compiling TankPlayerController_BP before play...
+[2018.11.29-21.50.21:829][148]LogPlayLevel: PlayLevel: Blueprint regeneration took 55 ms (1 blueprints)
+[2018.11.29-21.50.21:829][148]PIE: New page: PIE session: MainMenu (29 nov. 2018 23:50:21)
+[2018.11.29-21.50.21:829][148]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2018.11.29-21.50.21:831][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001344s)
+[2018.11.29-21.50.21:832][148]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.29-21.50.21:832][148]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2018.11.29-21.50.21:833][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.003203s)
+[2018.11.29-21.50.21:886][148]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.50.21:956][148]LogInit: FAudioDevice initialized.
+[2018.11.29-21.50.21:991][148]LogLoad: Game class is 'GameModeBase'
+[2018.11.29-21.50.21:993][148]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.11.29-22.50.21
+[2018.11.29-21.50.21:993][148]LogWorld: Bringing up level for play took: 0.000734
+[2018.11.29-21.50.22:007][148]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0,456
+[2018.11.29-21.50.22:007][148]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.50.26:144][352]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.50.26:145][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.50.26:194][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.50.26:194][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.50.26:267][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.50.26:283][353]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.11.29-21.51.51:903][ 21]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Guillaume/Downloads/BT17-Firing-M1A1-tank-in-Djibouti.jpg)
+[2018.11.29-21.51.52:589][ 21]LogTexture: Display: Building textures: BT17-Firing-M1A1-tank-in-Djibouti (BGRA8, 3609X2067)
+[2018.11.29-21.53.37:563][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Levels/MainMenu_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.11.29-21.53.38:410][942]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/MainMenu_Auto37EB323AC417824E957A323B0DC8854ED.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Levels/MainMenu_Auto3.umap'
+[2018.11.29-21.53.38:417][942]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.917
+[2018.11.29-21.53.38:418][942]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.917
+[2018.11.29-21.53.38:420][942]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu_BP] ([1] browsable assets)...
+[2018.11.29-21.53.38:421][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu_BP]
+[2018.11.29-21.53.38:421][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/UI/MainMenu_BP_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-21.53.38:442][942]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/MainMenu_BP_Auto3C8863BF0473F5A7EDA4BE386D3CCA58C.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/UI/MainMenu_BP_Auto3.uasset'
+[2018.11.29-21.53.38:443][942]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/BT17-Firing-M1A1-tank-in-Djibouti] ([1] browsable assets)...
+[2018.11.29-21.53.38:449][942]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/BT17-Firing-M1A1-tank-in-Djibouti.BT17-Firing-M1A1-tank-in-Djibouti]
+[2018.11.29-21.53.38:450][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BT17-Firing-M1A1-tank-in-Djibouti]
+[2018.11.29-21.53.38:579][942]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/BT17-Firing-M1A1-tank-in-Djibout52A1FEA74CAB705469CFEF9EEC845F26.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/UI/BT17-Firing-M1A1-tank-in-Djibouti_Auto3.uasset'
+[2018.11.29-21.53.38:580][942]LogFileHelpers: Auto-saving content packages took 0.161
+[2018.11.29-21.54.06:483][ 98]BlueprintLog: New page: Compile MainMenu_BP
+[2018.11.29-21.54.09:517][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../BattleTank/Battle_Tank/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.29-21.54.09:891][294]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/MainMenu8AD2EF4C468BF3094558B9B8DB8074A1.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Levels/MainMenu.umap'
+[2018.11.29-21.54.12:517][450]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.54.12:552][450]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.54.12:552][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.54.12:553][450]PIE: New page: PIE session: MainMenu (29 nov. 2018 23:54:12)
+[2018.11.29-21.54.12:553][450]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2018.11.29-21.54.12:557][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003155s)
+[2018.11.29-21.54.12:558][450]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.29-21.54.12:558][450]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2018.11.29-21.54.12:558][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.005096s)
+[2018.11.29-21.54.12:618][450]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.54.12:699][450]LogInit: FAudioDevice initialized.
+[2018.11.29-21.54.12:734][450]LogLoad: Game class is 'GameModeBase'
+[2018.11.29-21.54.12:735][450]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.29-22.54.12
+[2018.11.29-21.54.12:735][450]LogWorld: Bringing up level for play took: 0.000812
+[2018.11.29-21.54.12:750][450]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0,286
+[2018.11.29-21.54.12:750][450]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.54.17:336][662]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.54.17:338][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.54.17:387][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.54.17:388][662]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.54.17:489][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.54.17:524][663]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.11.29-21.54.25:383][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-21.54.36:820][644]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-21.55.09:421][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.55.09:463][ 88]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.55.09:464][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.55.09:464][ 88]PIE: New page: PIE session: MainMenu (29 nov. 2018 23:55:09)
+[2018.11.29-21.55.09:465][ 88]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2018.11.29-21.55.09:467][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001864s)
+[2018.11.29-21.55.09:468][ 88]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.29-21.55.09:468][ 88]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2018.11.29-21.55.09:468][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.003567s)
+[2018.11.29-21.55.09:532][ 88]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.55.09:608][ 88]LogInit: FAudioDevice initialized.
+[2018.11.29-21.55.09:615][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.55.09:654][ 88]LogLoad: Game class is 'GameModeBase'
+[2018.11.29-21.55.09:658][ 88]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.29-22.55.09
+[2018.11.29-21.55.09:660][ 88]LogWorld: Bringing up level for play took: 0.002740
+[2018.11.29-21.55.09:674][ 88]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.29-21.55.09:678][ 88]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 1,215
+[2018.11.29-21.55.09:679][ 88]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.55.12:030][267]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-21.55.12:035][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.55.12:076][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.55.12:076][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.55.12:147][268]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.11.29-21.55.23:698][525]LogEditorTransaction: Undo Resize Widget
+[2018.11.29-21.56.44:366][263]BlueprintLog: New page: Compile MainMenu
+[2018.11.29-21.56.46:602][489]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.56.46:628][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.56.46:629][489]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.29-21.56.46:633][489]LogPlayLevel: [PlayLevel] Compiling MainMenu_BP before play...
+[2018.11.29-21.56.46:864][489]LogPlayLevel: PlayLevel: Blueprint regeneration took 235 ms (1 blueprints)
+[2018.11.29-21.56.46:865][489]PIE: New page: PIE session: MainMenu (29 nov. 2018 23:56:46)
+[2018.11.29-21.56.46:866][489]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2018.11.29-21.56.46:868][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001761s)
+[2018.11.29-21.56.46:869][489]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.29-21.56.46:869][489]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2018.11.29-21.56.46:869][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.003512s)
+[2018.11.29-21.56.46:936][489]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.56.47:017][489]LogInit: FAudioDevice initialized.
+[2018.11.29-21.56.47:023][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.56.47:058][489]LogLoad: Game class is 'GameModeBase'
+[2018.11.29-21.56.47:060][489]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.29-22.56.47
+[2018.11.29-21.56.47:060][489]LogWorld: Bringing up level for play took: 0.001104
+[2018.11.29-21.56.47:073][489]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.29-21.56.47:090][489]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0,626
+[2018.11.29-21.56.47:090][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.56.51:577][784]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.56.51:578][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.56.51:610][784]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-21.56.51:649][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.56.51:650][784]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.56.51:897][785]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.11.29-21.57.00:214][401]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.57.00:312][401]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.57.00:315][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.57.00:315][401]PIE: New page: PIE session: MainMenu (29 nov. 2018 23:57:00)
+[2018.11.29-21.57.00:316][401]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2018.11.29-21.57.00:320][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003414s)
+[2018.11.29-21.57.00:322][401]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.29-21.57.00:324][401]LogPlayLevel: PIE: World Init took: (0.002882s)
+[2018.11.29-21.57.00:325][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.008486s)
+[2018.11.29-21.57.00:467][401]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.57.00:758][401]LogInit: FAudioDevice initialized.
+[2018.11.29-21.57.00:781][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.57.00:826][401]LogLoad: Game class is 'GameModeBase'
+[2018.11.29-21.57.00:830][401]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.29-22.57.00
+[2018.11.29-21.57.00:831][401]LogWorld: Bringing up level for play took: 0.002091
+[2018.11.29-21.57.00:847][401]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.29-21.57.00:857][401]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0,393
+[2018.11.29-21.57.00:858][401]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.57.04:830][560]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-21.57.04:836][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.57.04:880][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.57.04:882][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.57.05:006][561]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.11.29-21.58.20:008][534]LogEditorTransaction: Undo Resize Widget
+[2018.11.29-21.58.32:913][641]BlueprintLog: New page: Compile MainMenu_BP
+[2018.11.29-21.58.33:513][673]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.58.33:540][673]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.58.33:541][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.58.33:541][673]PIE: New page: PIE session: MainMenu (29 nov. 2018 23:58:33)
+[2018.11.29-21.58.33:542][673]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2018.11.29-21.58.33:543][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001458s)
+[2018.11.29-21.58.33:544][673]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.29-21.58.33:545][673]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2018.11.29-21.58.33:545][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.003036s)
+[2018.11.29-21.58.33:598][673]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.58.33:668][673]LogInit: FAudioDevice initialized.
+[2018.11.29-21.58.33:674][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.58.33:707][673]LogLoad: Game class is 'GameModeBase'
+[2018.11.29-21.58.33:709][673]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.29-22.58.33
+[2018.11.29-21.58.33:710][673]LogWorld: Bringing up level for play took: 0.000952
+[2018.11.29-21.58.33:722][673]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.29-21.58.33:729][673]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0,734
+[2018.11.29-21.58.33:730][673]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.58.40:785][853]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-21.58.40:788][853]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.58.40:827][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.58.40:828][853]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.58.40:905][854]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.11.29-21.59.48:094][277]BlueprintLog: New page: Compile MainMenu_BP
+[2018.11.29-21.59.49:108][361]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-21.59.49:133][361]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.59.49:133][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-21.59.49:134][361]PIE: New page: PIE session: MainMenu (29 nov. 2018 23:59:49)
+[2018.11.29-21.59.49:134][361]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2018.11.29-21.59.49:135][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001304s)
+[2018.11.29-21.59.49:137][361]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.29-21.59.49:137][361]LogPlayLevel: PIE: World Init took: (0.001632s)
+[2018.11.29-21.59.49:137][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.003538s)
+[2018.11.29-21.59.49:191][361]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-21.59.49:262][361]LogInit: FAudioDevice initialized.
+[2018.11.29-21.59.49:268][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-21.59.49:303][361]LogLoad: Game class is 'GameModeBase'
+[2018.11.29-21.59.49:305][361]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.29-22.59.49
+[2018.11.29-21.59.49:307][361]LogWorld: Bringing up level for play took: 0.002496
+[2018.11.29-21.59.49:321][361]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.29-21.59.49:327][361]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0,864
+[2018.11.29-21.59.49:328][361]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.59.57:238][468]LogRenderer: Reallocating scene render targets to support 1296x880 Format 9 NumSamples 1 (Frame:226).
+[2018.11.29-21.59.57:304][468]LogRenderer: Reallocating scene render targets to support 1336x880 Format 9 NumSamples 1 (Frame:227).
+[2018.11.29-21.59.57:370][468]LogRenderer: Reallocating scene render targets to support 1372x880 Format 9 NumSamples 1 (Frame:228).
+[2018.11.29-21.59.57:442][468]LogRenderer: Reallocating scene render targets to support 1396x880 Format 9 NumSamples 1 (Frame:229).
+[2018.11.29-21.59.57:519][468]LogRenderer: Reallocating scene render targets to support 1400x880 Format 9 NumSamples 1 (Frame:230).
+[2018.11.29-21.59.59:011][527]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-21.59.59:015][527]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.59.59:056][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-21.59.59:058][527]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-21.59.59:156][528]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.11.29-22.00.28:537][456]BlueprintLog: New page: Compile MainMenu_BP
+[2018.11.29-22.00.29:758][579]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-22.00.29:784][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-22.00.29:785][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-22.00.29:785][579]PIE: New page: PIE session: MainMenu (30 nov. 2018 00:00:29)
+[2018.11.29-22.00.29:785][579]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2018.11.29-22.00.29:787][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001243s)
+[2018.11.29-22.00.29:787][579]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.29-22.00.29:788][579]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2018.11.29-22.00.29:788][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002621s)
+[2018.11.29-22.00.29:837][579]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-22.00.29:902][579]LogInit: FAudioDevice initialized.
+[2018.11.29-22.00.29:907][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.29-22.00.29:939][579]LogLoad: Game class is 'GameModeBase'
+[2018.11.29-22.00.29:940][579]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.29-23.00.29
+[2018.11.29-22.00.29:941][579]LogWorld: Bringing up level for play took: 0.000790
+[2018.11.29-22.00.29:954][579]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.29-22.00.29:958][579]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0,506
+[2018.11.29-22.00.29:958][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-22.00.38:799][702]LogRenderer: Reallocating scene render targets to support 1412x880 Format 9 NumSamples 1 (Frame:298).
+[2018.11.29-22.00.38:865][702]LogRenderer: Reallocating scene render targets to support 1444x880 Format 9 NumSamples 1 (Frame:299).
+[2018.11.29-22.00.38:922][702]LogRenderer: Reallocating scene render targets to support 1472x880 Format 9 NumSamples 1 (Frame:300).
+[2018.11.29-22.00.38:980][702]LogRenderer: Reallocating scene render targets to support 1488x880 Format 9 NumSamples 1 (Frame:301).
+[2018.11.29-22.00.40:780][761]LogSlate: Window 'Battle_Tank Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.29-22.00.40:785][761]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-22.00.40:832][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.29-22.00.40:832][761]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.29-22.00.40:939][762]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.11.29-22.02.52:343][550]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 114550
+[2018.11.29-22.02.52:368][551]LogSlate: Took 0.000451 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-22.02.52:368][551]LogSlate: Took 0.000390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.29-22.02.52:382][551]LogSlate: Took 0.000738 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-22.02.52:384][551]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-22.02.52:386][551]LogSlate: Took 0.000486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-22.02.52:389][551]LogSlate: Took 0.000437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-22.02.52:643][573]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 23
+[2018.11.29-22.02.52:658][574]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-22.02.52:658][574]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.29-22.02.52:668][574]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-22.02.52:669][574]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-22.02.52:671][574]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-22.02.52:673][574]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-22.03.16:649][925]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 2352
+[2018.11.29-22.03.16:666][926]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-22.03.16:666][926]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.29-22.03.16:669][926]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-22.03.16:674][926]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-22.03.16:675][926]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-22.03.16:677][926]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-22.03.17:020][955]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 30
+[2018.11.29-22.03.17:037][956]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-22.03.17:037][956]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.29-22.03.17:039][956]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-22.03.17:047][956]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-22.03.17:048][956]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-22.03.17:050][956]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-22.03.17:201][968]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 13
+[2018.11.29-22.03.17:218][969]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-22.03.17:218][969]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.29-22.03.17:221][969]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-22.03.17:225][969]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-22.03.17:226][969]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-22.03.17:229][969]LogSlate: Took 0.000639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-22.03.17:475][991]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 23
+[2018.11.29-22.03.17:491][992]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-22.03.17:491][992]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.29-22.03.17:495][992]LogSlate: Took 0.000648 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-22.03.17:501][992]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-22.03.17:501][992]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-22.03.17:503][992]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-22.03.17:521][992]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2018.11.29-22.03.17:541][993]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 3/2 Pages; frames since last flush: 2
+[2018.11.29-22.03.17:557][994]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-22.03.17:558][994]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.29-22.03.17:561][994]LogSlate: Took 0.000590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-22.03.17:569][994]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-22.03.17:569][994]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-22.03.17:571][994]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-22.03.17:590][994]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 2 atlas pages as there is a lot of font data being cached.
+[2018.11.29-22.03.17:596][994]LogSlate: Warning: SlateFontCache - Setting the threshold to trigger a flush to 3 atlas pages as there is a lot of font data being cached.
+[2018.11.29-22.03.17:902][ 23]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 4/3 Pages; frames since last flush: 30
+[2018.11.29-22.03.17:921][ 24]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-22.03.17:922][ 24]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.29-22.03.17:924][ 24]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-22.03.17:930][ 24]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-22.03.17:931][ 24]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-22.03.17:932][ 24]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-22.03.17:968][ 25]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 2
+[2018.11.29-22.03.17:982][ 26]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-22.03.17:983][ 26]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.29-22.03.17:985][ 26]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-22.03.17:989][ 26]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-22.03.17:990][ 26]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-22.03.17:992][ 26]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-22.03.18:169][ 40]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 15
+[2018.11.29-22.03.18:183][ 41]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-22.03.18:183][ 41]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.29-22.03.18:186][ 41]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-22.03.18:190][ 41]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-22.03.18:191][ 41]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-22.03.18:194][ 41]LogSlate: Took 0.000608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-22.03.34:979][713]LogEditorTransaction: Undo Remove Widget
+[2018.11.29-22.04.48:575][948]LogSlate: Took 0.000555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-22.04.55:287][519]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.29-22.05.24:045][164]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.29-22.05.27:610][441]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.29-22.05.54:404][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Levels/MainMenu_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.11.29-22.05.54:819][288]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/MainMenu_Auto4F5458C61451D75937D8E67A9DB3D39A7.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/Levels/MainMenu_Auto4.umap'
+[2018.11.29-22.05.54:827][288]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.475
+[2018.11.29-22.05.54:828][288]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.475
+[2018.11.29-22.05.54:833][288]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu_BP] ([1] browsable assets)...
+[2018.11.29-22.05.54:834][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu_BP]
+[2018.11.29-22.05.54:835][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/UI/MainMenu_BP_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.11.29-22.05.54:903][288]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/MainMenu_BP_Auto4DF16DFDA4806BFF4F16FEB9C21210A94.tmp' to '../../../../../BattleTank/Battle_Tank/Saved/Autosaves/Game/UI/MainMenu_BP_Auto4.uasset'
+[2018.11.29-22.05.54:905][288]LogFileHelpers: Auto-saving content packages took 0.073
+[2018.11.29-22.06.34:334][861]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:/Users/Guillaume/Downloads/ink_tank/inktank.ttf)
+[2018.11.29-22.06.38:179][861]LogSlate: Window 'Font Face Import Options' being destroyed
+[2018.11.29-22.06.38:197][861]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2018.11.29-22.06.38:320][862]LogSlate: Took 0.094000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.11.29-22.06.38:320][862]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.29-22.06.38:326][862]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-22.06.38:327][862]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-22.06.38:333][862]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-22.06.38:334][862]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-22.06.41:995][234]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-22.06.42:000][234]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-22.06.51:004][189]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.29-22.08.46:849][800]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.29-22.09.00:412][745]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.29-22.09.24:979][801]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.29-22.11.04:294][664]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.29-22.11.14:992][491]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.29-22.11.54:070][826]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.29-22.12.43:960][186]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.29-22.13.19:010][896]BlueprintLog: New page: Compile MainMenu_BP
+[2018.11.29-22.13.20:796][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../BattleTank/Battle_Tank/Content/UI/MainMenu_BP.uasset" SILENT=true
+[2018.11.29-22.13.20:822][ 35]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/MainMenu_BPA605310745FEC066F4246E99737A42BF.tmp' to '../../../../../BattleTank/Battle_Tank/Content/UI/MainMenu_BP.uasset'
+[2018.11.29-22.13.22:366][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../BattleTank/Battle_Tank/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.29-22.13.22:911][170]LogSavePackage: Moving '../../../../../BattleTank/Battle_Tank/Saved/MainMenu3EEF044F41F3F3F68E3BBA8CD3A2D3A1.tmp' to '../../../../../BattleTank/Battle_Tank/Content/Levels/MainMenu.umap'
