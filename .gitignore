@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Visual Studio 2015 database file
+*.VC.db
+
 # Compiled Object files
 *.slo
 *.lo
@@ -10,12 +13,10 @@
 # Precompiled Headers
 *.gch
 *.pch
-
 # Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
-
 # Fortran module files
 *.mod
 
@@ -46,8 +47,9 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/*/Binaries/*
+
+# Binaries/*
+Plugins/*/Binaries/*/*.pdb
 
 # Builds
 Build/*
@@ -69,7 +71,7 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
+Plugins/*/Source/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
